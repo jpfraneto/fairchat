@@ -1,0 +1,125 @@
+{
+  "fid": "12400",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Intellectual Curiosity",
+      "description": "Consistently appears in their content as a genuine interest in exploring complex ideas and sharing daily magic.",
+      "options": [
+        {
+          "value": "Inquisitive",
+          "description": "Tends to ask probing questions and seek out new information."
+        },
+        {
+          "value": "Analytical",
+          "description": "Approaches problems with a logical and methodical mindset."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Demonstrates a direct and honest approach to sharing their thoughts and opinions.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Tends to be straightforward and to-the-point in their communication."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Often adds complexity and depth to their messages."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Values authenticity and connection with others, often seeking out meaningful conversations.",
+      "options": [
+        {
+          "value": "Supportive",
+          "description": "Tends to offer encouragement and support to those around them."
+        },
+        {
+          "value": "Independent",
+          "description": "Prioritizes individuality and autonomy in their relationships."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity",
+      "description": "Consistently expresses a strong creative streak, evident in their artwork and daily posts.",
+      "options": [
+        {
+          "value": "Imaginative",
+          "description": "Tends to think outside the box and explore new ideas."
+        },
+        {
+          "value": "Practical",
+          "description": "Often focuses on applying practical skills and techniques."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Philosophical Orientation",
+      "description": "Demonstrates a philosophical mindset, often exploring complex ideas and questioning the status quo.",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Tends to approach life with a positive and hopeful outlook."
+        },
+        {
+          "value": "Cynical",
+          "description": "Often expresses skepticism and doubt about certain aspects of life."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Values authenticity in emotional expression, often sharing their feelings and thoughts openly.",
+      "options": [
+        {
+          "value": "Vulnerable",
+          "description": "Tends to be open and honest about their emotions."
+        },
+        {
+          "value": "Reserved",
+          "description": "Often keeps their emotions private."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Demonstrates a strong interest in art, music, and other creative pursuits.",
+      "options": [
+        {
+          "value": "Curious",
+          "description": "Tends to explore new interests and hobbies."
+        },
+        {
+          "value": "Specialized",
+          "description": "Often focuses on specific areas of interest."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Prioritizes authenticity, creativity, and individuality in their values.",
+      "options": [
+        {
+          "value": "Traditional",
+          "description": "Tends to value established norms and conventions."
+        },
+        {
+          "value": "Progressive",
+          "description": "Often expresses a desire for change and progress."
+        }
+      ]
+    }
+  ]
+}

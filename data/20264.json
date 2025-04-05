@@ -1,0 +1,125 @@
+{
+  "fid": "20264",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension represents the user's communication style and tone.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension reflects the user's values and priorities.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension represents the user's social dynamics and relationships.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension shows the user's personality traits and characteristics.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension represents the user's interests and hobbies.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension reflects the user's creativity and originality.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension shows the user's sense of humor and playfulness.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension represents the user's ambition and motivation.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

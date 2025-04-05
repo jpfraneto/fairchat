@@ -1,0 +1,125 @@
+{
+  "fid": "5049",
+  "characteristics": [
+    {
+      "emoji": "🤝",
+      "name": "Problem Solving Style",
+      "description": "Consistently appears in their content as a key aspect of their problem-solving approach.",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Focused on breaking down complex problems into manageable parts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Depends on instinct and experience to navigate challenging situations."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "name": "Communication Style",
+      "description": "Clearly values direct and clear communication in their online interactions.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Uses straightforward language to convey ideas."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Often incorporates subtle hints and suggestions into their messages."
+        }
+      ]
+    },
+    {
+      "emoji": "🌎",
+      "name": "Global Perspective",
+      "description": "Demonstrates a broad understanding of global issues and interconnectedness.",
+      "options": [
+        {
+          "value": "Global Citizen",
+          "description": "Takes a comprehensive view of complex problems and seeks to address them globally."
+        },
+        {
+          "value": "Local Focus",
+          "description": "Prioritizes local concerns and initiatives over international ones."
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "name": "Collaboration Approach",
+      "description": "Fosters a sense of community and cooperation in their online endeavors.",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Makes an effort to understand and appreciate diverse perspectives."
+        },
+        {
+          "value": "Competitive",
+          "description": "Emphasizes individual achievement over collective success."
+        }
+      ]
+    },
+    {
+      "emoji": "💻",
+      "name": "Technical Literacy",
+      "description": "Possesses a strong foundation in technical skills and stays up-to-date with industry advancements.",
+      "options": [
+        {
+          "value": "Advanced",
+          "description": "Mastery of multiple programming languages and technologies."
+        },
+        {
+          "value": "Basic",
+          "description": "Familiarity with fundamental concepts and tools."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "name": "Learning Habits",
+      "description": "Demonstrates a passion for ongoing learning and self-improvement.",
+      "options": [
+        {
+          "value": "Curious",
+          "description": "Seeks out new knowledge and experiences with enthusiasm."
+        },
+        {
+          "value": "Settled",
+          "description": "Considers themselves knowledgeable in their area of expertise."
+        }
+      ]
+    },
+    {
+      "emoji": "💖",
+      "name": "Relationship Priorities",
+      "description": "Values deep connections and meaningful relationships above other aspects of life.",
+      "options": [
+        {
+          "value": "Intimate",
+          "description": "Fosters close, personal bonds with others."
+        },
+        {
+          "value": "Social",
+          "description": "Prioritizes social connections and community engagement."
+        }
+      ]
+    },
+    {
+      "emoji": "🔥",
+      "name": "Motivation Drive",
+      "description": "Is fueled by a strong sense of purpose and passion for their work.",
+      "options": [
+        {
+          "value": "Intrinsic",
+          "description": "Driven by personal fulfillment and satisfaction."
+        },
+        {
+          "value": "Extrinsic",
+          "description": "Motivated by external factors such as recognition or reward."
+        }
+      ]
+    }
+  ]
+}

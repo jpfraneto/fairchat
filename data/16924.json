@@ -1,0 +1,125 @@
+{
+  "fid": "16924",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Pull Day Efficiency",
+      "description": "Consistently demonstrates ability to prioritize tasks and manage time effectively, as seen in their commitment to hitting a strong pull day.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Focuses on completing tasks without hesitation."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Takes into account potential complexities and adjusts schedule accordingly."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Demonstrates clear and concise communication, as seen in their cast texts and responses to comments.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Provides straightforward answers without ambiguity."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Offers thoughtful and detailed explanations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Engagement",
+      "description": "Displays enthusiasm for interacting with others, as seen in their supportive comments and mentions.",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Engages proactively with the community."
+        },
+        {
+          "value": "Passive",
+          "description": "Participates in a more observational manner."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Creation",
+      "description": "Demonstrates creativity and consistency in their content creation, as seen in the variety of topics and formats.",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Presents novel ideas and perspectives."
+        },
+        {
+          "value": "Traditional",
+          "description": "Sticks to established formulas and approaches."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Shows awareness of social norms and relationships, as seen in their interactions with other users.",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Demonstrates understanding and compassion for others."
+        },
+        {
+          "value": "Detached",
+          "description": "Maintains a sense of objectivity and emotional distance."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "Displays eagerness to learn and explore new topics, as seen in their cast texts and mentions.",
+      "options": [
+        {
+          "value": "Curious",
+          "description": "Asks questions and seeks out information."
+        },
+        {
+          "value": "Apathetic",
+          "description": "Shows little interest in exploring new ideas or topics."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personal Growth",
+      "description": "Demonstrates a commitment to self-improvement, as seen in their cast texts and overall demeanor.",
+      "options": [
+        {
+          "value": "Motivated",
+          "description": "Sets goals and strives for personal development."
+        },
+        {
+          "value": "Unmotivated",
+          "description": "Lacks drive or enthusiasm for personal growth."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Responsibility",
+      "description": "Shows accountability and reliability, as seen in their cast texts and overall behavior.",
+      "options": [
+        {
+          "value": "Responsible",
+          "description": "Takes ownership of tasks and commitments."
+        },
+        {
+          "value": "Negligent",
+          "description": "Fails to meet obligations or responsibilities."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "319431",
+  "characteristics": [
+    {
+      "emoji": "🤔",
+      "name": "Critical Thinking",
+      "description": "Consistently questions assumptions and challenges information to arrive at a well-reasoned conclusion.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Fiercely critiques arguments without nuance."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Thoughtfully evaluates arguments with a critical eye."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "name": "Analytical Mindset",
+      "description": "Demonstrates a talent for breaking down complex information into manageable components.",
+      "options": [
+        {
+          "value": "Systemic",
+          "description": "Sees the big picture and understands how individual pieces fit together."
+        },
+        {
+          "value": "Detail-Oriented",
+          "description": "Focuses intently on specific details to ensure accuracy."
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "name": "Knowledge Base",
+      "description": "Possesses a broad and in-depth understanding of various subjects, including history, technology, and marketing.",
+      "options": [
+        {
+          "value": "Rapid",
+          "description": "Acquires knowledge quickly through diverse sources."
+        },
+        {
+          "value": "Mastery-Driven",
+          "description": "Focuses on achieving expertise in specific areas."
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "name": "Social Dynamics",
+      "description": "Effectively navigates complex social situations and builds strong relationships with others.",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Unapologetically expresses opinions and needs."
+        },
+        {
+          "value": "Empathetic",
+          "description": "Sincerely considers the perspectives of others."
+        }
+      ]
+    },
+    {
+      "emoji": "📰",
+      "name": "Media Literacy",
+      "description": "Recognizes bias and misinformation in various media formats.",
+      "options": [
+        {
+          "value": "Discerning",
+          "description": "Distinguishes fact from opinion with ease."
+        },
+        {
+          "value": "Skeptical",
+          "description": "Approaches information with a healthy dose of skepticism."
+        }
+      ]
+    },
+    {
+      "emoji": "💡",
+      "name": "Creative Problem Solving",
+      "description": "Generates innovative solutions to complex problems.",
+      "options": [
+        {
+          "value": "Out-of-the-Box",
+          "description": "Thinks outside conventional boundaries to find unique answers."
+        },
+        {
+          "value": "Practical",
+          "description": "Prioritizes efficiency and feasibility in solving problems."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "name": "Growth Mindset",
+      "description": "Embraces challenges as opportunities for growth and development.",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Takes calculated risks to pursue ambitious goals."
+        },
+        {
+          "value": "Resilient",
+          "description": "Bounces back from setbacks with determination."
+        }
+      ]
+    },
+    {
+      "emoji": "💬",
+      "name": "Communication Style",
+      "description": "Effectively conveys thoughts and ideas through clear, concise language.",
+      "options": [
+        {
+          "value": "Conversational",
+          "description": "Engages in natural, flowing discussions."
+        },
+        {
+          "value": "Prescriptive",
+          "description": "Directly states opinions without ambiguity."
+        }
+      ]
+    }
+  ]
+}

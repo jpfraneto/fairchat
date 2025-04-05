@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+body {
+  position: relative;
+  font-family: "Comic Neue", cursive;
+  background-image: url("/fairchat.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.comic-neue-regular {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.inter-regular {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

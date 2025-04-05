@@ -1,0 +1,125 @@
+{
+  "fid": "18413",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents Frankel's approach to communication, consistently appearing in their content as direct and straightforward.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "This dimension highlights Frankel's emphasis on building a global onchain economy that increases creativity, innovation, and freedom.",
+      "options": [
+        {
+          "value": "",
+          "description": "Strong Believer"
+        },
+        {
+          "value": "",
+          "description": "Skeptical"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension reflects Frankel's leadership style, consistently appearing in their content as collaborative and inclusive.",
+      "options": [
+        {
+          "value": "",
+          "description": "Collaborative"
+        },
+        {
+          "value": "",
+          "description": "Authoritarian"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest",
+      "description": "This dimension represents Frankel's enthusiasm for DeFi and their eagerness to drive growth and strategy in the ecosystem.",
+      "options": [
+        {
+          "value": "",
+          "description": "Enthusiastic"
+        },
+        {
+          "value": "",
+          "description": "Cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality",
+      "description": "This dimension highlights Frankel's friendly and approachable demeanor, consistently appearing in their content as warm and welcoming.",
+      "options": [
+        {
+          "value": "",
+          "description": "Friendly"
+        },
+        {
+          "value": "",
+          "description": "Formidable"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Work Ethic",
+      "description": "This dimension reflects Frankel's dedication to their work, consistently appearing in their content as driven and motivated.",
+      "options": [
+        {
+          "value": "",
+          "description": "Driven"
+        },
+        {
+          "value": "",
+          "description": "Laid Back"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "This dimension represents Frankel's sense of humor, consistently appearing in their content as lighthearted and playful.",
+      "options": [
+        {
+          "value": "",
+          "description": "Lighthearted"
+        },
+        {
+          "value": "",
+          "description": "Dark"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Ambition",
+      "description": "This dimension highlights Frankel's ambition to build a global onchain economy, consistently appearing in their content as forward-thinking and innovative.",
+      "options": [
+        {
+          "value": "",
+          "description": "Forward-Thinking"
+        },
+        {
+          "value": "",
+          "description": "Conservative"
+        }
+      ]
+    }
+  ]
+}

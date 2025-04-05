@@ -1,0 +1,140 @@
+{
+  "fid": "4522",
+  "characteristics": [
+    {
+      "emoji": "📊",
+      "name": "Analytical Approach",
+      "description": "This user consistently demonstrates a analytical approach to problem-solving and decision-making.",
+      "options": [
+        {
+          "value": "Logical",
+          "description": "Agent would make decisions based on clear logic and evidence."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Agent would rely more on instincts and patterns rather than explicit analysis."
+        }
+      ]
+    },
+    {
+      "emoji": "📈",
+      "name": "Communication Style",
+      "description": "This user tends to communicate in a clear, direct, and concise manner.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Agent would prioritize straightforwardness over nuance."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Agent would consider the subtleties of language for more effective communication."
+        }
+      ]
+    },
+    {
+      "emoji": "🏠",
+      "name": "Home Team Bias",
+      "description": "This user shows a clear affinity for teams that are based in or have strong connections to their local area.",
+      "options": [
+        {
+          "value": "Strong",
+          "description": "Agent would prioritize teams with geographical ties."
+        },
+        {
+          "value": "Weak",
+          "description": "Agent would not show significant bias towards local teams."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "name": "Risk Management",
+      "description": "This user tends to be cautious when it comes to taking risks, often preferring to prioritize stability and security.",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "Agent would avoid high-risk investments or decisions."
+        },
+        {
+          "value": "Aggressive",
+          "description": "Agent would be more willing to take bold risks in pursuit of rewards."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "name": "Competitive Drive",
+      "description": "This user demonstrates a strong desire to win and succeed, often being highly competitive in their pursuits.",
+      "options": [
+        {
+          "value": "Intense",
+          "description": "Agent would be highly driven to achieve success."
+        },
+        {
+          "value": "Muted",
+          "description": "Agent would not prioritize competition as much."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "name": "Data-Driven Decision Making",
+      "description": "This user relies heavily on data and statistics when making decisions, valuing evidence-based approaches.",
+      "options": [
+        {
+          "value": "Predominant",
+          "description": "Agent would prioritize data-driven decision-making."
+        },
+        {
+          "value": "Supplementary",
+          "description": "Agent would consider alternative perspectives alongside data."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "name": "Adaptability",
+      "description": "This user tends to be flexible and adaptable in the face of changing circumstances, often being able to pivot quickly.",
+      "options": [
+        {
+          "value": "High",
+          "description": "Agent would be highly agile in responding to new information."
+        },
+        {
+          "value": "Low",
+          "description": "Agent would struggle with adjusting to new situations."
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "name": "Professionalism",
+      "description": "This user values professionalism and expertise, often prioritizing reputation and credibility.",
+      "options": [
+        {
+          "value": "Strong",
+          "description": "Agent would prioritize maintaining a professional image."
+        },
+        {
+          "value": "Weak",
+          "description": "Agent would not be as concerned with appearances."
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "name": "Team Selection Criteria",
+      "description": "This user tends to evaluate teams based on their historical performance, team chemistry, and overall style of play.",
+      "options": [
+        {
+          "value": "Performance-Oriented",
+          "description": "Agent would prioritize recent success when evaluating teams."
+        },
+        {
+          "value": "Style-Based",
+          "description": "Agent would consider the aesthetic appeal of a team's playing style."
+        }
+      ]
+    }
+  ]
+}

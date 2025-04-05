@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE2MDk4LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4YUIyMERlOGY1QTRmOGUxNDdCYWFDOUQxZjZlMjM2ODYxNDg1NTE2QSJ9",
+    "payload": "eyJkb21haW4iOiJmYWlyY2hhdC5sYXQifQ",
+    "signature": "MHg3NDE0Mzk5YTZiNGI2YWVhYjVjYzIwNzI5ZTE2NzkzYTE0YmM0MTFlZGE5NjU0ZWM5OGI3MzhmZTkyZDA5ZTg5MTFjZGZhMGQ1NzI5MmJlMTMxYjg1NTEyZWRlZmUyNzc4YWYzZGQ5MjQ2MTg4MjMyY2ExYTMzZDI0ZjJiYjBhNzFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Fairchat",
+    "iconUrl": "https://github.com/jpfraneto/images/blob/main/jppfp.png?raw=true",
+    "homeUrl": "https://fairchat.lat",
+    "imageUrl": "https://github.com/jpfraneto/images/blob/main/bgbgbg.png?raw=true",
+    "buttonTitle": "Record Fairchat",
+    "splashImageUrl": "https://github.com/jpfraneto/images/blob/main/jppfp.png?raw=true",
+    "splashBackgroundColor": "#000",
+    "webhookUrl": "https://poiesis.anky.bot/fairchat/webhook"
+  }
+}

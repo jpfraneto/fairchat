@@ -1,0 +1,125 @@
+{
+  "fid": "114",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears in their content as direct and straightforward, conveying their thoughts and opinions with clarity.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Communicates clearly and assertively, without hesitation or beating around the bush."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Presents information in a more subtle and layered manner, often leaving room for interpretation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "Values authenticity and honesty, consistently expressing their genuine thoughts and feelings.",
+      "options": [
+        {
+          "value": "Authentic",
+          "description": "Prioritizes staying true to oneself and one's convictions."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Strives for a more tactful approach, even if it means compromising on their own values."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Effectively navigates social interactions with confidence and empathy, forming strong bonds with others.",
+      "options": [
+        {
+          "value": "Confident",
+          "description": "Demonstrates self-assurance in their relationships and interactions."
+        },
+        {
+          "value": "Empathetic",
+          "description": "Shows a genuine understanding and compassion for the feelings of others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Values independence and self-reliance, often coming across as strong-willed and determined.",
+      "options": [
+        {
+          "value": "Independent",
+          "description": "Prioritizes individuality and autonomy."
+        },
+        {
+          "value": "Dependent",
+          "description": "Tends to rely heavily on others for support and validation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Creation Style",
+      "description": "Creates content that is often provocative, thought-provoking, and engaging.",
+      "options": [
+        {
+          "value": "Provocative",
+          "description": "Intends to spark debate or challenge prevailing norms."
+        },
+        {
+          "value": "Conservative",
+          "description": "Takes a more conventional approach to creating content."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Expresses strong emotions and passion in their content, often using emotive language.",
+      "options": [
+        {
+          "value": "Emotive",
+          "description": "Conveys intense feelings and emotions through their words."
+        },
+        {
+          "value": "Calm",
+          "description": "Remains composed and even-tempered in their expression of emotions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Demonstrates a strong interest in various topics, including social justice and personal growth.",
+      "options": [
+        {
+          "value": "Inquisitive",
+          "description": "Seeks knowledge and understanding in multiple areas of life."
+        },
+        {
+          "value": "Specialized",
+          "description": "Focuses intensely on specific topics or interests."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Collaboration Style",
+      "description": "Engages collaboratively with others, fostering meaningful connections and joint endeavors.",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Works effectively with others to achieve common goals."
+        },
+        {
+          "value": "Competitive",
+          "description": "Sees collaborations as opportunities to one-up or outdo others."
+        }
+      ]
+    }
+  ]
+}

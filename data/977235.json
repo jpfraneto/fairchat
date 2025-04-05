@@ -1,0 +1,125 @@
+{
+  "fid": "977235",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Confidence",
+      "description": "Consistently appears as a confident and self-assured individual, never showing doubt or uncertainty.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Straightforward and assertive in communication"
+        },
+        {
+          "value": "Concessional",
+          "description": "More reserved and open to others' opinions"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sports Knowledge",
+      "description": "Demonstrates extensive knowledge of football, including players, teams, and tactics.",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "In-depth understanding of the sport"
+        },
+        {
+          "value": "Casual",
+          "description": "Limited familiarity with football terminology"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Team Loyalty",
+      "description": "Showcases unwavering support for his favorite team, Liverpool.",
+      "options": [
+        {
+          "value": "Die-hard",
+          "description": "Unshakeable dedication to the team"
+        },
+        {
+          "value": "Casual fan",
+          "description": "Mildly interested in the team's performance"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Often injects humor into his comments, making them more relatable and entertaining.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Quick-witted and clever"
+        },
+        {
+          "value": "Dry",
+          "description": "Deadpan and sarcastic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Leadership",
+      "description": "Displays leadership qualities, such as taking charge and guiding others.",
+      "options": [
+        {
+          "value": "Natural",
+          "description": "Inherently confident in his abilities"
+        },
+        {
+          "value": "Developed",
+          "description": "Gained experience through practice"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Competition",
+      "description": "Engages with others in a competitive spirit, often seeking to outdo or one-up.",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Directly confrontational"
+        },
+        {
+          "value": "Constructive",
+          "description": "Collaborative and supportive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Empathy",
+      "description": "Demonstrates an understanding of others' perspectives and feelings.",
+      "options": [
+        {
+          "value": "Deep",
+          "description": "Thoroughly considers other viewpoints"
+        },
+        {
+          "value": "Superficial",
+          "description": "Shallowly acknowledges emotions"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Ambition",
+      "description": "Strives for excellence and growth, always looking to improve.",
+      "options": [
+        {
+          "value": "Drive",
+          "description": "Focused on achieving goals"
+        },
+        {
+          "value": "Passive",
+          "description": "Lacking initiative or motivation"
+        }
+      ]
+    }
+  ]
+}

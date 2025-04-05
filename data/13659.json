@@ -1,0 +1,125 @@
+{
+  "fid": "13659",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "for you",
+      "description": "A system that prioritizes user attention, often for commercial gain.",
+      "options": [
+        {
+          "value": "Manipulative",
+          "description": "Prioritizes user engagement over user well-being."
+        },
+        {
+          "value": "Balanced",
+          "description": "Strikes a balance between user attention and commercial interests."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "AI Usage",
+      "description": "A user's perspective on AI's role in their life.",
+      "options": [
+        {
+          "value": "Enabling",
+          "description": "Sees AI as a tool to enhance their productivity and well-being."
+        },
+        {
+          "value": "Limiting",
+          "description": "Believes AI should be used with caution, prioritizing human autonomy."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Attention Management",
+      "description": "A user's approach to managing their attention.",
+      "options": [
+        {
+          "value": "Pomodoro",
+          "description": "Uses time-management techniques like Pomodoro to stay focused."
+        },
+        {
+          "value": "Block",
+          "description": "Blocks distracting content or apps to minimize attention-seeking interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Digital Freedom",
+      "description": "A user's perception of AI's impact on their digital freedom.",
+      "options": [
+        {
+          "value": "Threatened",
+          "description": "Believes AI erodes their sense of agency and autonomy."
+        },
+        {
+          "value": "Empowered",
+          "description": "Sees AI as a means to protect and enhance their digital freedom."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Information Overload",
+      "description": "A user's perspective on information consumption.",
+      "options": [
+        {
+          "value": "Overwhelmed",
+          "description": "Feels overwhelmed by the sheer volume of available information."
+        },
+        {
+          "value": "Curious",
+          "description": "Sees opportunities in the vast amounts of information and strives to learn from it."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "A user's approach to social interactions.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Tends to act on impulse, prioritizing straightforward communication."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Casts a wider net, seeking deeper connections and subtlety in their interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personal Growth",
+      "description": "A user's focus on personal development.",
+      "options": [
+        {
+          "value": "Self-improvement",
+          "description": "Prioritizes self-growth and continuous learning."
+        },
+        {
+          "value": "Stagnation",
+          "description": "Feels comfortable with their current state, prioritizing relaxation over change."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "A user's perspective on the values they strive to uphold.",
+      "options": [
+        {
+          "value": "Authentic",
+          "description": "Prioritizes genuine, authentic experiences and relationships."
+        },
+        {
+          "value": "Influenced",
+          "description": "Feels influenced by external factors, seeking validation through others."
+        }
+      ]
+    }
+  ]
+}

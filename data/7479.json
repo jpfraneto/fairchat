@@ -1,0 +1,125 @@
+{
+  "fid": "7479",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Trolling Style",
+      "description": "Consistently appears in their content as a lighthearted way to engage with others.",
+      "options": [
+        {
+          "value": "Playful",
+          "description": "Characterizes the user's approach, making interactions more relaxed and humorous."
+        },
+        {
+          "value": "Sarcastic",
+          "description": "Highlights the user's tendency to use humor to critique or mock others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "Their behavior in discussing risks and investments suggests a certain level of comfort with uncertainty.",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Indicates the user's willingness to take bold action when assessing potential rewards."
+        },
+        {
+          "value": "Conservative",
+          "description": "Reflects the user's caution and careful approach when evaluating risks."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Their casting style often involves using a conversational tone, making complex topics more accessible.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Characterizes the user's straightforward and to-the-point approach."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Highlights the user's tendency to provide thoughtful and detailed explanations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Investment Focus",
+      "description": "Their discussions around investing consistently emphasize long-term growth and diversification.",
+      "options": [
+        {
+          "value": "Risk-Averse",
+          "description": "Reflects the user's prioritization of preserving capital over potential short-term gains."
+        },
+        {
+          "value": "Aggressive",
+          "description": "Indicates the user's focus on maximizing returns through high-risk investments."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Network Size",
+      "description": "Their social media presence showcases a diverse network of connections, suggesting an interest in community building.",
+      "options": [
+        {
+          "value": "Small",
+          "description": "Characterizes the user's preference for close, intimate relationships over large networks."
+        },
+        {
+          "value": "Large",
+          "description": "Highlights the user's desire to engage with many people and foster a sense of belonging."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Perception",
+      "description": "Their casting style often downplays risks, implying that they view uncertainty as manageable.",
+      "options": [
+        {
+          "value": "Cautious",
+          "description": "Reflects the user's tendency to be overly cautious when evaluating potential risks."
+        },
+        {
+          "value": "Optimistic",
+          "description": "Highlights the user's confidence in their ability to navigate uncertain situations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Problem-Solving Approach",
+      "description": "Their responses often involve finding creative solutions to complex problems.",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Characterizes the user's approach as logical and methodical."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Highlights the user's reliance on instinct and gut feelings when solving problems."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Their content rarely expresses strong emotions, suggesting a stoic or reserved personality.",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": "Characterizes the user's tendency to openly discuss their feelings and emotions."
+        },
+        {
+          "value": "Reserved",
+          "description": "Highlights the user's reluctance to share personal emotions or vulnerabilities."
+        }
+      ]
+    }
+  ]
+}

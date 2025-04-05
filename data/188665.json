@@ -1,0 +1,125 @@
+{
+  "fid": "188665",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Censorship resistance",
+      "description": "Consistently appears in content as a value",
+      "options": [
+        {
+          "value": "Strongly",
+          "description": "The user is very resistant to censorship and will not compromise on their values."
+        },
+        {
+          "value": "Weakly",
+          "description": "The user is somewhat resistant to censorship, but may be willing to make concessions under certain circumstances."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Appears consistently as direct and to-the-point in their content",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "The user tends to be straightforward and clear in their communication."
+        },
+        {
+          "value": "Nuanced",
+          "description": "The user tends to be more subtle and indirect in their communication, often leaving room for interpretation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personal Values",
+      "description": "Consistently appears as prioritizing individual freedom over collective security",
+      "options": [
+        {
+          "value": "Prioritizes Individual Freedom",
+          "description": "The user values and will fight to protect their personal autonomy above all else."
+        },
+        {
+          "value": "Prioritizes Collective Security",
+          "description": "The user recognizes the importance of community safety and well-being and will make sacrifices for the greater good."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Tends to be more solitary and independent in their online interactions",
+      "options": [
+        {
+          "value": "Solitary",
+          "description": "The user prefers to interact with others one-on-one or in small groups, rather than large crowds."
+        },
+        {
+          "value": "Communal",
+          "description": "The user enjoys interacting with many people at once and values community and belonging."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Style",
+      "description": "Tends to be more technical and informative in their content",
+      "options": [
+        {
+          "value": "Technical",
+          "description": "The user tends to focus on providing detailed, technical information to their audience."
+        },
+        {
+          "value": "Informative",
+          "description": "The user tends to focus on educating their audience through clear, concise explanations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Consistently appears as being very open and expressive in their emotional responses",
+      "options": [
+        {
+          "value": "Open",
+          "description": "The user is unafraid to express their emotions and values transparency in their communication."
+        },
+        {
+          "value": "Closed",
+          "description": "The user tends to keep their emotions private and only share them with those they trust."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "Tends to be more risk-averse in their content and actions",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "The user tends to avoid taking unnecessary risks or making bold moves."
+        },
+        {
+          "value": "Aggressive",
+          "description": "The user tends to take bold action and is willing to take calculated risks."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Goal Orientation",
+      "description": "Consistently appears as prioritizing personal growth over external validation",
+      "options": [
+        {
+          "value": "Personal Growth",
+          "description": "The user values self-improvement and personal development above external recognition or praise."
+        },
+        {
+          "value": "External Validation",
+          "description": "The user seeks recognition and approval from others to validate their worth and accomplishments."
+        }
+      ]
+    }
+  ]
+}

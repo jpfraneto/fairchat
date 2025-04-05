@@ -1,0 +1,125 @@
+{
+  "fid": "263314",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Garden Enthusiasm",
+      "description": "Alyssa consistently shares her love for nature and outdoor spaces, showcasing a positive and optimistic personality.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inquisitive"
+        },
+        {
+          "value": "",
+          "description": "Cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creative Expression",
+      "description": "Alyssa frequently shares her artistic work and engages in creative conversations, indicating a value on self-expression.",
+      "options": [
+        {
+          "value": "",
+          "description": "Vibrant"
+        },
+        {
+          "value": "",
+          "description": "Reserved"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Honesty",
+      "description": "Alyssa openly discusses her personal struggles with grief, loss, and mental health, demonstrating a willingness to be vulnerable.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Distant"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Connection",
+      "description": "Alyssa frequently interacts with her audience and shares personal stories, suggesting a strong desire for social connection.",
+      "options": [
+        {
+          "value": "",
+          "description": "Warm"
+        },
+        {
+          "value": "",
+          "description": "Formal"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "Alyssa engages in conversations about various topics, including pets and gardens, demonstrating a curious nature.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inquisitive"
+        },
+        {
+          "value": "",
+          "description": "Apathetic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Authenticity",
+      "description": "Alyssa values authenticity and transparency in her online presence, reflecting a commitment to being true to herself.",
+      "options": [
+        {
+          "value": "",
+          "description": "Genuine"
+        },
+        {
+          "value": "",
+          "description": "Inauthentic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Empathy",
+      "description": "Alyssa discusses her personal struggles and shares her experiences, indicating a capacity for empathy and understanding.",
+      "options": [
+        {
+          "value": "",
+          "description": "Compassionate"
+        },
+        {
+          "value": "",
+          "description": "Detached"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Open-Mindedness",
+      "description": "Alyssa engages in conversations about diverse topics, including art and mental health, suggesting an open-minded perspective.",
+      "options": [
+        {
+          "value": "",
+          "description": "Adventurous"
+        },
+        {
+          "value": "",
+          "description": "Conservative"
+        }
+      ]
+    }
+  ]
+}

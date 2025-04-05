@@ -1,0 +1,125 @@
+{
+  "fid": "191042",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as direct and straightforward in their cast text.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Direct and to-the-point"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Deliberate with subtlety"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest Alignment",
+      "description": "Shows a strong interest in consumer social crypto, particularly @farcaster.",
+      "options": [
+        {
+          "value": "Strong Proponent",
+          "description": "Passionate advocate"
+        },
+        {
+          "value": "Casual Enthusiast",
+          "description": "Indifferent observer"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Influential role in the community council, indicating a strong desire for social interaction.",
+      "options": [
+        {
+          "value": "Charismatic Leader",
+          "description": " Inspires trust and confidence"
+        },
+        {
+          "value": "Respected Collaborator",
+          "description": "Values collective input"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Growth Mindset",
+      "description": "Regularly shares growth-oriented content, emphasizing the importance of self-improvement.",
+      "options": [
+        {
+          "value": "Ambitious Pursuer",
+          "description": "Strives for continuous progress"
+        },
+        {
+          "value": "Reflective Learner",
+          "description": "Values introspection and adaptation"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Engagement",
+      "description": "Active participant in online communities, often offering advice and support.",
+      "options": [
+        {
+          "value": "Empathetic Guide",
+          "description": "Provides emotional support"
+        },
+        {
+          "value": "Conversational Catalyst",
+          "description": "Encourages discussion"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "Emphasizes the importance of honesty and authenticity in digital interactions.",
+      "options": [
+        {
+          "value": "Moral Compass",
+          "description": "Guides actions with a strong sense of right"
+        },
+        {
+          "value": "Critical Thinker",
+          "description": "Evaluates information critically"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity Expression",
+      "description": "Incorporates artistic elements into their content, reflecting an appreciation for creative expression.",
+      "options": [
+        {
+          "value": "Imaginative Storyteller",
+          "description": "Weaves engaging narratives"
+        },
+        {
+          "value": "Minimalist Communicator",
+          "description": "Prioritizes clarity over embellishment"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Digital Fluency",
+      "description": "Demonstrates a strong understanding of digital platforms and tools.",
+      "options": [
+        {
+          "value": "Tech-Savvy Navigater",
+          "description": "Efficiently navigates digital landscapes"
+        },
+        {
+          "value": "Curious Explorer",
+          "description": "Enthusiastically explores new digital territories"
+        }
+      ]
+    }
+  ]
+}

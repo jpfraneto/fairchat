@@ -1,0 +1,125 @@
+{
+  "fid": "142",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Creativity",
+      "description": "A user consistently showcases innovative thinking and artistic expression in their casts.",
+      "options": [
+        {
+          "value": "",
+          "description": "Analytical"
+        },
+        {
+          "value": "",
+          "description": "Imaginative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "A user frequently incorporates humor and wit into their casts, making it a distinctive aspect of their communication style.",
+      "options": [
+        {
+          "value": "",
+          "description": "Dry"
+        },
+        {
+          "value": "",
+          "description": "Witty"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Confidence",
+      "description": "A user consistently exudes self-assurance and confidence in their casts, which influences how they approach challenges.",
+      "options": [
+        {
+          "value": "",
+          "description": "Reserved"
+        },
+        {
+          "value": "",
+          "description": "Assertive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Empathy",
+      "description": "A user demonstrates a strong ability to understand and relate to others in their casts, making empathy a core aspect of their personality.",
+      "options": [
+        {
+          "value": "",
+          "description": "Emotionally detached"
+        },
+        {
+          "value": "",
+          "description": "Compassionate"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "A user consistently shows a desire to learn and explore new ideas in their casts, making curiosity a defining trait.",
+      "options": [
+        {
+          "value": "",
+          "description": "Apathetic"
+        },
+        {
+          "value": "",
+          "description": "Inquisitive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Determination",
+      "description": "A user consistently demonstrates persistence and determination in their casts, which influences how they approach challenges.",
+      "options": [
+        {
+          "value": "",
+          "description": "Indecisive"
+        },
+        {
+          "value": "",
+          "description": "Resolute"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Adaptability",
+      "description": "A user consistently shows an ability to adapt to changing situations in their casts, making adaptability a valuable quality.",
+      "options": [
+        {
+          "value": "",
+          "description": "Rigid"
+        },
+        {
+          "value": "",
+          "description": "Flexible"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Authenticity",
+      "description": "A user consistently strives to be genuine and authentic in their casts, which influences how they interact with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Artificial"
+        },
+        {
+          "value": "",
+          "description": "Genuine"
+        }
+      ]
+    }
+  ]
+}

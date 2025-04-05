@@ -1,0 +1,125 @@
+{
+  "fid": "12921",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as direct and straightforward, with a focus on humor and wit.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Responds quickly and clearly, without nuance."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Takes time to consider responses, providing more in-depth thoughts."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sense of Humor",
+      "description": "Often uses humor to break the ice and connect with others.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Uses quick-witted one-liners to keep conversations light."
+        },
+        {
+          "value": "Sarcastic",
+          "description": "Uses sarcasm to poke fun at themselves or situations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Consistently appears as a friendly and approachable presence in online communities.",
+      "options": [
+        {
+          "value": "Inclusive",
+          "description": "Seeks to include others in conversations and activities."
+        },
+        {
+          "value": "Confident",
+          "description": "Asserts themselves confidently, without being confrontational."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Frequently discusses and shares knowledge about food-related topics.",
+      "options": [
+        {
+          "value": "Foodie",
+          "description": "Passionate about trying new foods and drinks."
+        },
+        {
+          "value": "Health-Conscious",
+          "description": "Prioritizes nutrition and healthy eating."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Consistently appears to value authenticity and individuality.",
+      "options": [
+        {
+          "value": "Authentic",
+          "description": "Prioritizes being true to oneself over external expectations."
+        },
+        {
+          "value": "Traditional",
+          "description": "Places importance on time-honored values and customs."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Consistently appears as a creative and playful individual.",
+      "options": [
+        {
+          "value": "Playful",
+          "description": "Seeks to have fun and enjoy life's experiences."
+        },
+        {
+          "value": "Introverted",
+          "description": "Prefers quieter, more low-key environments."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Often uses emoticons and playful language to express themselves.",
+      "options": [
+        {
+          "value": "Spontaneous",
+          "description": "Responds quickly and often in a spontaneous manner."
+        },
+        {
+          "value": "Prepared",
+          "description": "Takes time to consider responses before sharing them."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Connection",
+      "description": "Consistently appears as someone who values close relationships with others.",
+      "options": [
+        {
+          "value": "Emotional",
+          "description": "Prioritizes emotional connections and empathy."
+        },
+        {
+          "value": "Intellectual",
+          "description": "Focuses on mental stimulation and intellectual pursuits."
+        }
+      ]
+    }
+  ]
+}

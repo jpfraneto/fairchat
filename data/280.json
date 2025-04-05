@@ -1,0 +1,125 @@
+{
+  "fid": "280",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "How does this user communicate?",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Direct and to-the-point"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Deliberate and thoughtful"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "What values does this user stand for?",
+      "options": [
+        {
+          "value": "Individualism",
+          "description": "Personal freedom and autonomy"
+        },
+        {
+          "value": "Collectivism",
+          "description": "Group harmony and cooperation"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "How does this user interact with others?",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Confident and assertive"
+        },
+        {
+          "value": "Reserve",
+          "description": "Introverted and reserved"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest",
+      "description": "What are this user's interests?",
+      "options": [
+        {
+          "value": "Adventure",
+          "description": "Love of exploration and trying new things"
+        },
+        {
+          "value": "Intellectual",
+          "description": "Passionate about learning and intellectual pursuits"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Quirk",
+      "description": "What is a distinctive quirk or trait this user has?",
+      "options": [
+        {
+          "value": "Sense of humor",
+          "description": "Has a great sense of humor"
+        },
+        {
+          "value": "Competitive streak",
+          "description": "Competition drives them to succeed"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Conflict Resolution",
+      "description": "How does this user resolve conflicts?",
+      "options": [
+        {
+          "value": "Direct confrontation",
+          "description": "Address the issue head-on"
+        },
+        {
+          "value": "Diplomacy",
+          "description": "Seeking common ground and compromise"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Motivation",
+      "description": "What drives this user?",
+      "options": [
+        {
+          "value": "Personal satisfaction",
+          "description": "Drives themselves to achieve personal goals"
+        },
+        {
+          "value": "External recognition",
+          "description": "Seeks external validation and recognition"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "How does this user express their emotions?",
+      "options": [
+        {
+          "value": "Openly",
+          "description": "Expresses emotions freely and honestly"
+        },
+        {
+          "value": "Subtly",
+          "description": "Exhibits subtle emotional cues"
+        }
+      ]
+    }
+  ]
+}

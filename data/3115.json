@@ -1,0 +1,125 @@
+{
+  "fid": "3115",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Investment Strategy",
+      "description": "This dimension represents the user's approach to investing in stocks, with a focus on Auburn and other teams.",
+      "options": [
+        {
+          "value": "Risk-Averse",
+          "description": "Conservative approach prioritizing stable investments over potential gains."
+        },
+        {
+          "value": "Aggressive",
+          "description": "High-risk, high-reward strategy seeking significant returns"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension reflects the user's communication preferences, with a focus on clarity and directness.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Straightforward and to-the-point in their responses."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Considerate of context and subtlety in their responses."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "This dimension represents the user's passions and interests outside of investing, with a focus on sports teams.",
+      "options": [
+        {
+          "value": "Sports Fanatic",
+          "description": "Extremely enthusiastic about various sports teams and events."
+        },
+        {
+          "value": "Casual Observer",
+          "description": "Mildly interested in sports, but not actively engaged."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Orientation",
+      "description": "This dimension reflects the user's core values and priorities, with a focus on fairness and transparency.",
+      "options": [
+        {
+          "value": "Principled",
+          "description": "Strongly believes in doing what is right, even if it's difficult."
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Prioritizes practicality over idealism and fairness."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension represents the user's approach to interacting with others, with a focus on building relationships.",
+      "options": [
+        {
+          "value": "Outreach",
+          "description": "Strives to connect with new people and expand their network."
+        },
+        {
+          "value": "Reserve",
+          "description": "Prefers to maintain a distance from new individuals or groups."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity Level",
+      "description": "This dimension reflects the user's desire for knowledge and exploration, with a focus on learning.",
+      "options": [
+        {
+          "value": "Inquisitive",
+          "description": "Constantly seeking new information and experiences."
+        },
+        {
+          "value": "Satisfied",
+          "description": "Feels content with their current knowledge and doesn't actively seek more."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Adaptability",
+      "description": "This dimension represents the user's ability to adjust to changing circumstances, with a focus on flexibility.",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Adapts quickly to new situations and challenges."
+        },
+        {
+          "value": "Inflexible",
+          "description": "Resists changes and prefers routine."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "This dimension reflects the user's openness with their emotions, with a focus on authenticity.",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": " openly shares and manages their emotions."
+        },
+        {
+          "value": "Reserved",
+          "description": "Hides or suppresses their emotions from public view."
+        }
+      ]
+    }
+  ]
+}

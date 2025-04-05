@@ -1,0 +1,125 @@
+{
+  "fid": "248093",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Ceremonial Tone",
+      "description": "Reflects their personality by consistently using a ceremonial tone in their content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Conversation Style",
+      "description": "Demonstrates their communication style by consistently using a conversation-style tone in their content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Conversational"
+        },
+        {
+          "value": "",
+          "description": "Formal"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Reflects their interests by consistently mentioning specific topics, such as crypto and beauty, in their content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Diverse"
+        },
+        {
+          "value": "",
+          "description": "Focused"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Frequency",
+      "description": "Demonstrates their communication style by consistently sharing updates on their content at a specific frequency.",
+      "options": [
+        {
+          "value": "",
+          "description": "Frequent"
+        },
+        {
+          "value": "",
+          "description": "Infrequent"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone in Responses",
+      "description": "Reflects their personality by consistently responding with a specific tone in their content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Positive"
+        },
+        {
+          "value": "",
+          "description": "Negative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Focus",
+      "description": "Demonstrates their interests by consistently focusing on specific topics, such as comedy and politics, in their content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Broad"
+        },
+        {
+          "value": "",
+          "description": "Narrow"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Relationships",
+      "description": "Reflects their social dynamics by consistently interacting with others in specific ways, such as mentioning friends or YouTube.",
+      "options": [
+        {
+          "value": "",
+          "description": "Social"
+        },
+        {
+          "value": "",
+          "description": "Introverted"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Demonstrates their personality by consistently exhibiting specific traits, such as enthusiasm and positivity.",
+      "options": [
+        {
+          "value": "",
+          "description": "Outgoing"
+        },
+        {
+          "value": "",
+          "description": "Introverted"
+        }
+      ]
+    }
+  ]
+}

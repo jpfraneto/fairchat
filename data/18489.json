@@ -1,0 +1,140 @@
+{
+  "fid": "18489",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Community Engagement",
+      "description": "This dimension consistently appears in their content as a enthusiastic and active participant in online communities.",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Responds with compassion and understanding."
+        },
+        {
+          "value": "Direct",
+          "description": "Provides clear and concise answers without hesitation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Creation Style",
+      "description": "This dimension appears in their content as a creator of engaging and informative content.",
+      "options": [
+        {
+          "value": "Storyteller",
+          "description": "Uses narratives to convey information."
+        },
+        {
+          "value": "Data-Driven",
+          "description": "Focuses on presenting data to support arguments."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension consistently appears in their content as a clear and concise communicator.",
+      "options": [
+        {
+          "value": "Clear",
+          "description": "Uses straightforward language to convey ideas."
+        },
+        {
+          "value": "Ambiguous",
+          "description": "Leaves room for interpretation."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "This dimension appears in their content as a confident and assertive individual.",
+      "options": [
+        {
+          "value": "Confident",
+          "description": "Exhibits self-assurance in their words and actions."
+        },
+        {
+          "value": "Timid",
+          "description": "Lacks confidence in their interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "This dimension consistently appears in their content as valuing growth and learning.",
+      "options": [
+        {
+          "value": "Growth-Oriented",
+          "description": "Seeks constant improvement."
+        },
+        {
+          "value": "Stagnant",
+          "description": "Prefers to maintain the status quo."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension appears in their content as a collaborative and inclusive individual.",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Fosters teamwork and cooperation."
+        },
+        {
+          "value": "Competitive",
+          "description": "Prioritizes individual achievement over team success."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Expertise",
+      "description": "This dimension consistently appears in their content as an expert in their field.",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Demonstrates authoritative knowledge."
+        },
+        {
+          "value": "Novice",
+          "description": "Lacks expertise and guidance."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "This dimension appears in their content as using humor to diffuse tension.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Employing clever wordplay."
+        },
+        {
+          "value": "Dry",
+          "description": "Using deadpan delivery."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Intelligence",
+      "description": "This dimension consistently appears in their content as being empathetic and understanding.",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Responds with compassion and understanding."
+        },
+        {
+          "value": "Insensitive",
+          "description": "Lacks emotional awareness."
+        }
+      ]
+    }
+  ]
+}

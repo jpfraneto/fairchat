@@ -1,0 +1,125 @@
+{
+  "fid": "506169",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents how Mia approaches conversations in her content, reflecting her ability to connect with others and convey complex ideas.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Openness to New Ideas",
+      "description": "This dimension captures Mia's receptivity to innovative perspectives and her willingness to challenge existing norms.",
+      "options": [
+        {
+          "value": "",
+          "description": "Firm"
+        },
+        {
+          "value": "",
+          "description": "Adaptable"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "This dimension illustrates Mia's comfort level with expressing her emotions in her content, revealing her authenticity and empathy.",
+      "options": [
+        {
+          "value": "",
+          "description": "Reserved"
+        },
+        {
+          "value": "",
+          "description": "Expressive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Focus",
+      "description": "This dimension highlights Mia's dedication to fostering connections with her audience and promoting collective understanding.",
+      "options": [
+        {
+          "value": "",
+          "description": "Individualistic"
+        },
+        {
+          "value": "",
+          "description": "Collaborative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Analytical Approach",
+      "description": "This dimension represents Mia's methodical approach to problem-solving and critical thinking, showcasing her analytical mind.",
+      "options": [
+        {
+          "value": "",
+          "description": "Methodical"
+        },
+        {
+          "value": "",
+          "description": "Intuitive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "This dimension illustrates Mia's dominant personality traits, such as her optimism and sense of humor.",
+      "options": [
+        {
+          "value": "",
+          "description": "Positive"
+        },
+        {
+          "value": "",
+          "description": "Negative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension captures Mia's ability to navigate complex social situations and build strong relationships with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Assertive"
+        },
+        {
+          "value": "",
+          "description": "Cooperative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "This dimension represents Mia's core values, such as empathy and inclusivity.",
+      "options": [
+        {
+          "value": "",
+          "description": "Traditional"
+        },
+        {
+          "value": "",
+          "description": "Progressive"
+        }
+      ]
+    }
+  ]
+}

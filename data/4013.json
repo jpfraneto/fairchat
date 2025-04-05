@@ -1,0 +1,125 @@
+{
+  "fid": "4013",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as direct and to-the-point in their responses.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Agent responds quickly, without nuance or explanation."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Agent takes time to consider and respond thoughtfully."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Investing Knowledge",
+      "description": "Demonstrates in-depth understanding of investing concepts and markets.",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Agent provides expert-level advice and insights."
+        },
+        {
+          "value": "Apprentice",
+          "description": "Agent demonstrates a solid foundation, but may require guidance."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Writing Style",
+      "description": "Produces clear, concise writing with minimal errors.",
+      "options": [
+        {
+          "value": "Economical",
+          "description": "Agent writes with precision and brevity."
+        },
+        {
+          "value": "Verbose",
+          "description": "Agent tends to write extensively, sometimes redundantly."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Tone",
+      "description": "Consistently exhibits a friendly, approachable tone.",
+      "options": [
+        {
+          "value": "Friendly",
+          "description": "Agent is warm and welcoming in their interactions."
+        },
+        {
+          "value": "Formal",
+          "description": "Agent maintains a professional, neutral demeanor."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Effectively navigates complex social situations with ease.",
+      "options": [
+        {
+          "value": "Confident",
+          "description": "Agent is self-assured and assertive in group settings."
+        },
+        {
+          "value": "Reservant",
+          "description": "Agent tends to be more reserved, preferring one-on-one interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values Alignment",
+      "description": "Consistently prioritizes values related to fairness and transparency.",
+      "options": [
+        {
+          "value": "Fair",
+          "description": "Agent strives for balance and equality in their decisions."
+        },
+        {
+          "value": "Disciplined",
+          "description": "Agent maintains a strict adherence to their personal values."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Investment Strategy",
+      "description": "Recommendations align with a long-term, risk-managed approach.",
+      "options": [
+        {
+          "value": "Conservative",
+          "description": "Agent prioritizes stability over growth."
+        },
+        {
+          "value": "Aggressive",
+          "description": "Agent is willing to take calculated risks for potential gains."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Digital Literacy",
+      "description": "Demonstrates proficiency in various digital tools and platforms.",
+      "options": [
+        {
+          "value": "Advanced",
+          "description": "Agent expertly utilizes advanced features and software."
+        },
+        {
+          "value": "Novice",
+          "description": "Agent demonstrates basic familiarity with common digital tools."
+        }
+      ]
+    }
+  ]
+}

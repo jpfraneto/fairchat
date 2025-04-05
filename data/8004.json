@@ -1,0 +1,125 @@
+{
+  "fid": "8004",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as direct and to-the-point, with a touch of humor.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Communicates clearly and efficiently."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Uses subtlety and irony to convey meaning."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Passionate about building /quidli 🦑 & /dist ♻️, with a love for DAOs.",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Always looking for new and creative ways to engage."
+        },
+        {
+          "value": "Traditional",
+          "description": "Respects established methods and approaches."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Type",
+      "description": "Seems to embody the traits of an ENFJ, with a strong focus on community.",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Prefers quieter, more low-key environments."
+        },
+        {
+          "value": "Extroverted",
+          "description": "Thrives in social situations and enjoys being around people."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor Style",
+      "description": "Often uses self-deprecating humor to connect with others.",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Uses irony and sarcasm to make pointed comments."
+        },
+        {
+          "value": "Playful",
+          "description": "Loves to use lighthearted, humorous language."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Places a strong emphasis on community and collaboration.",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Prioritizes individual success over team effort."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Fosters a sense of unity and shared purpose."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Seems to be comfortable with diverse perspectives and opinions.",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Takes charge and leads the conversation."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Works closely with others to achieve a common goal."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Problem-Solving Style",
+      "description": "Approaches problems with a logical, methodical mindset.",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Breaks down complex issues into smaller parts."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Trusts instincts and follows gut feelings."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interpersonal Style",
+      "description": "Seems to be comfortable with a wide range of relationships and connections.",
+      "options": [
+        {
+          "value": "Warm",
+          "description": "Fosters strong emotional bonds with others."
+        },
+        {
+          "value": "Distant",
+          "description": "Keeps interactions brief and superficial."
+        }
+      ]
+    }
+  ]
+}

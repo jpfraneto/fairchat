@@ -1,0 +1,125 @@
+{
+  "fid": "1015644",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Investigative Approach",
+      "description": "Lee Fang consistently appears to be thorough and meticulous in their investigative work.",
+      "options": [
+        {
+          "value": "In-Depth",
+          "description": "Analyzes every detail before drawing conclusions."
+        },
+        {
+          "value": "Conversational",
+          "description": "Engages with sources and experts to build a narrative."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone",
+      "description": "Lee Fang's content often has a critical tone, but also allows for nuance and ambiguity.",
+      "options": [
+        {
+          "value": "Sharp",
+          "description": "Directly confronts issues without hesitation."
+        },
+        {
+          "value": "Analytical",
+          "description": "Examines topics from multiple angles, avoiding oversimplification."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Lee Fang tends to communicate in a clear and concise manner.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Delivers messages without unnecessary embellishments."
+        },
+        {
+          "value": "Conversational",
+          "description": "Uses storytelling techniques to engage audiences."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest in Current Events",
+      "description": "Lee Fang's content frequently covers pressing issues in international news.",
+      "options": [
+        {
+          "value": "Focal",
+          "description": "Prioritizes coverage of significant global events."
+        },
+        {
+          "value": "Comprehensive",
+          "description": "Covers a wide range of topics, including local and niche areas."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Investigative Style",
+      "description": "Lee Fang often uses primary sources and expert insights to support their claims.",
+      "options": [
+        {
+          "value": "In-Depth",
+          "description": "Conducts thorough research, analyzing multiple data points."
+        },
+        {
+          "value": "Holistic",
+          "description": "Considers the broader context of a story before presenting findings."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Critical Thinking",
+      "description": "Lee Fang appears to critically evaluate information and arguments.",
+      "options": [
+        {
+          "value": "Skeptical",
+          "description": "Questioning the status quo and challenging assumptions."
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Considering practical implications of ideas and policies."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Tone",
+      "description": "Lee Fang's content often has a serious, somber tone.",
+      "options": [
+        {
+          "value": "Serious",
+          "description": "Approaches topics with gravity and respect."
+        },
+        {
+          "value": "Empathetic",
+          "description": "Acknowledges the human impact of issues, expressing compassion and understanding."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Lee Fang frequently engages in public debates and discussions.",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Asserts their opinions with confidence and conviction."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Seeks input from others, considering diverse perspectives."
+        }
+      ]
+    }
+  ]
+}

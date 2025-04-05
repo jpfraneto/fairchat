@@ -1,0 +1,125 @@
+{
+  "fid": "979895",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Knowledge Acquisition",
+      "description": "Consistently showcases a growth mindset and a desire to learn, with quotes from Stephen Hawking highlighting the importance of knowledge acquisition.",
+      "options": [
+        {
+          "value": "",
+          "description": "Insatiable"
+        },
+        {
+          "value": "",
+          "description": "Curious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor and Lightheartedness",
+      "description": "Frequently uses memes, emojis, and playful language to lighten the mood and connect with their audience.",
+      "options": [
+        {
+          "value": "",
+          "description": "Sarcastic"
+        },
+        {
+          "value": "",
+          "description": "Playful"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Tends to communicate in a clear and concise manner, often using short sentences or paragraphs.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Concise"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Relaxation and Leisure",
+      "description": "Frequently expresses a desire to relax and unwind, often using calming language or sharing their favorite hobbies.",
+      "options": [
+        {
+          "value": "",
+          "description": "Calm"
+        },
+        {
+          "value": "",
+          "description": "Laid-back"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Competitive Spirit",
+      "description": "Displays a competitive edge in their communication, often using phrases like 'GM' or responding with speed.",
+      "options": [
+        {
+          "value": "",
+          "description": "Aggressive"
+        },
+        {
+          "value": "",
+          "description": "Competition-driven"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Intellectual Curiosity",
+      "description": "Explores various topics and interests, often engaging in discussions or sharing knowledge.",
+      "options": [
+        {
+          "value": "",
+          "description": "Analytical"
+        },
+        {
+          "value": "",
+          "description": "Inquisitive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Authenticity",
+      "description": "Values honesty and authenticity, often expressing themselves genuinely and without pretenses.",
+      "options": [
+        {
+          "value": "",
+          "description": "Genuine"
+        },
+        {
+          "value": "",
+          "description": "Sincere"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Building",
+      "description": "Creates a welcoming atmosphere for their audience, often using inclusive language or responding to comments.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inclusive"
+        },
+        {
+          "value": "",
+          "description": "Warm"
+        }
+      ]
+    }
+  ]
+}

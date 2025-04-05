@@ -1,0 +1,125 @@
+{
+  "fid": "60",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears in their content as a valued quality, enabling effective collaboration and engagement.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest Alignment",
+      "description": "Appears consistently in their content as a key aspect of their personality, reflecting a strong sense of purpose.",
+      "options": [
+        {
+          "value": "",
+          "description": "Strongly Aligning"
+        },
+        {
+          "value": "",
+          "description": "Loosely Aligned"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Prioritization",
+      "description": "Demonstrated consistently in their content as a guiding principle, reflecting a strong sense of ethics.",
+      "options": [
+        {
+          "value": "",
+          "description": "Core Value"
+        },
+        {
+          "value": "",
+          "description": "Secondary Priority"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Revealed consistently in their content as a key aspect of their personality, reflecting a strong sense of community.",
+      "options": [
+        {
+          "value": "",
+          "description": "Influential"
+        },
+        {
+          "value": "",
+          "description": "Collaborative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity Approach",
+      "description": "Appears consistently in their content as a valued approach, reflecting a strong sense of innovation.",
+      "options": [
+        {
+          "value": "",
+          "description": "Proactive"
+        },
+        {
+          "value": "",
+          "description": "Responsive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Demonstrated consistently in their content as a key aspect of their personality, reflecting a strong sense of authenticity.",
+      "options": [
+        {
+          "value": "",
+          "description": "Openly Expressive"
+        },
+        {
+          "value": "",
+          "description": "Tactfully Reserved"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Engagement",
+      "description": "Revealed consistently in their content as a valued activity, reflecting a strong sense of civic responsibility.",
+      "options": [
+        {
+          "value": "",
+          "description": "Active Participation"
+        },
+        {
+          "value": "",
+          "description": "Supportive Observer"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Adaptability Response",
+      "description": "Appears consistently in their content as a key aspect of their personality, reflecting a strong sense of resilience.",
+      "options": [
+        {
+          "value": "",
+          "description": "Proactive Adjustment"
+        },
+        {
+          "value": "",
+          "description": "Reflective Reboot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "447195",
+  "characteristics": [
+    {
+      "emoji": "🤔",
+      "name": "Critical Thinking",
+      "description": "Consistently demonstrates analytical and evaluative skills in their content.",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Focuses on breaking down complex information"
+        },
+        {
+          "value": "Intuitive",
+          "description": "Seems to rely on instinct and experience"
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "name": "Information Seeking",
+      "description": "Consistently seeks out and incorporates new knowledge into their content.",
+      "options": [
+        {
+          "value": "Curious",
+          "description": "Actively seeks out new information"
+        },
+        {
+          "value": "Efficient",
+          "description": "Quickly absorbs and applies existing knowledge"
+        }
+      ]
+    },
+    {
+      "emoji": "💬",
+      "name": "Communication Style",
+      "description": "Tends to communicate in a clear, concise manner.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Values straightforwardness"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Pays attention to subtleties"
+        }
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "name": "Creative Expression",
+      "description": "Consistently expresses themselves through art and creativity.",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": "Seeks to convey emotions"
+        },
+        {
+          "value": "Practical",
+          "description": "Prioritizes functionality"
+        }
+      ]
+    },
+    {
+      "emoji": "🏋️‍♀️",
+      "name": "Physical Activity",
+      "description": "Consistently prioritizes physical activity in their content.",
+      "options": [
+        {
+          "value": "Regular",
+          "description": "Aims to maintain a consistent routine"
+        },
+        {
+          "value": "Adventurous",
+          "description": "Enjoys trying new activities"
+        }
+      ]
+    },
+    {
+      "emoji": "💼",
+      "name": "Career Ambition",
+      "description": "Consistently expresses ambition and drive in their content.",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Strives for excellence"
+        },
+        {
+          "value": "Realistic",
+          "description": "Prioritizes stability"
+        }
+      ]
+    },
+    {
+      "emoji": "👥",
+      "name": "Social Dynamics",
+      "description": "Consistently values building strong relationships in their content.",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Enjoys being around people"
+        },
+        {
+          "value": "Introverted",
+          "description": "Prioritizes alone time"
+        }
+      ]
+    },
+    {
+      "emoji": "💸",
+      "name": "Financial Discipline",
+      "description": "Consistently prioritizes financial responsibility in their content.",
+      "options": [
+        {
+          "value": "Meticulous",
+          "description": "Takes calculated risks"
+        },
+        {
+          "value": "Frugal",
+          "description": "Prioritizes saving"
+        }
+      ]
+    }
+  ]
+}

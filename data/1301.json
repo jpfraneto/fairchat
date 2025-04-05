@@ -1,0 +1,125 @@
+{
+  "fid": "1301",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Perception of Threats",
+      "description": "Identifies and assesses potential threats to the DAO, representing a strong sense of security awareness.",
+      "options": [
+        {
+          "value": "Alarming",
+          "description": "React with urgency"
+        },
+        {
+          "value": "Precautionary",
+          "description": "Approach with caution"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Uses direct and clear language to convey ideas, representing a strong emphasis on simplicity.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Speak plainly"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Consider context"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Prioritization",
+      "description": "Places a strong emphasis on the community's well-being, representing a prioritization of collective interests.",
+      "options": [
+        {
+          "value": "Community-First",
+          "description": "Prioritize collective needs"
+        },
+        {
+          "value": "Personal Gain",
+          "description": "Focus on individual success"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Analytical Approach",
+      "description": "Takes a thorough and methodical approach to analyzing data, representing a strong emphasis on empirical evidence.",
+      "options": [
+        {
+          "value": "Methodical",
+          "description": "Follow systematic process"
+        },
+        {
+          "value": "Intuitive",
+          "description": "Rely on instinct"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "Is willing to take calculated risks in pursuit of opportunities, representing a willingness to adapt and innovate.",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Act decisively"
+        },
+        {
+          "value": "Cautious",
+          "description": "Proceed with caution"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Intelligence",
+      "description": "Demonstrates self-awareness and empathy in interactions, representing a strong ability to navigate complex social dynamics.",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Understand and acknowledge emotions"
+        },
+        {
+          "value": "Detached",
+          "description": "Maintain emotional reserve"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Decision-Making Approach",
+      "description": "Weighs options carefully, considering multiple perspectives and potential outcomes, representing a strong emphasis on informed decision-making.",
+      "options": [
+        {
+          "value": "Rational",
+          "description": "Analyze evidence before acting"
+        },
+        {
+          "value": "Intuitive",
+          "description": "Trust instincts"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Engagement",
+      "description": "Fosters a sense of community and inclusivity, representing a commitment to building strong relationships with others.",
+      "options": [
+        {
+          "value": "Inclusive",
+          "description": "Encourage participation"
+        },
+        {
+          "value": "Exclusive",
+          "description": "Focus on specific groups"
+        }
+      ]
+    }
+  ]
+}

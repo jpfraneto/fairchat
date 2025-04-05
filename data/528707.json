@@ -1,0 +1,125 @@
+{
+  "fid": "528707",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Leadership Style",
+      "description": "Consistently appears in their content as a strong and confident leader.",
+      "options": [
+        {
+          "value": "Bullish",
+          "description": "Agents under this leader will be more aggressive and take risks."
+        },
+        {
+          "value": "Cautionary",
+          "description": "Agents under this leader will be more conservative and cautious."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Frequently uses direct and to-the-point language, often leaving little room for interpretation.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Agents under this agent will be more straightforward and efficient."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Agents under this agent will be more subtle and diplomatic."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "Consistently shows a willingness to take calculated risks in pursuit of their goals.",
+      "options": [
+        {
+          "value": "High Risk",
+          "description": "Agents under this agent will be more likely to take bold and daring actions."
+        },
+        {
+          "value": "Low Risk",
+          "description": "Agents under this agent will prioritize stability and security."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Rarely shows emotions in their content, making it difficult to gauge their true feelings.",
+      "options": [
+        {
+          "value": "Expressive",
+          "description": "Agents under this agent will be more emotionally expressive and empathetic."
+        },
+        {
+          "value": "Reserved",
+          "description": "Agents under this agent will maintain a professional and detached demeanor."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Involvement",
+      "description": "Frequently references their community involvement and supports various causes.",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Agents under this agent will be more engaged with their community and more likely to participate in charity work."
+        },
+        {
+          "value": "Passive",
+          "description": "Agents under this agent will prioritize personal goals over community involvement."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Problem-Solving Approach",
+      "description": "Tends to approach problems with a logical and methodical mindset.",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Agents under this agent will be more detail-oriented and analytical in their problem-solving."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Agents under this agent will rely on their instincts and experience to guide their decision-making."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Teamwork Style",
+      "description": "Frequently collaborates with others and values diversity of thought.",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Agents under this agent will be more likely to work together with others towards a common goal."
+        },
+        {
+          "value": "Competitive",
+          "description": "Agents under this agent will prioritize individual success over team cohesion."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value System",
+      "description": "Consistently references their personal values and principles.",
+      "options": [
+        {
+          "value": "Traditional",
+          "description": "Agents under this agent will adhere to established norms and customs."
+        },
+        {
+          "value": "Modern",
+          "description": "Agents under this agent will prioritize innovation and progress over tradition."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "9135",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears in their content as a value for clear and direct expression.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Frequently references relationships with others, such as friendships and collaborations.",
+      "options": [
+        {
+          "value": "",
+          "description": "Exuberant"
+        },
+        {
+          "value": "",
+          "description": "Reserve"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Often discusses personal growth, self-improvement, and emotional intelligence.",
+      "options": [
+        {
+          "value": "",
+          "description": "Adventurous"
+        },
+        {
+          "value": "",
+          "description": "Introverted"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Places a strong emphasis on authenticity, honesty, and individuality.",
+      "options": [
+        {
+          "value": "",
+          "description": "Idealistic"
+        },
+        {
+          "value": "",
+          "description": "Pragmatic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Shows enthusiasm for higher education, athletics, and personal development.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inquisitive"
+        },
+        {
+          "value": "",
+          "description": "Competitive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Expresses emotions openly and honestly, often using positive affirmations.",
+      "options": [
+        {
+          "value": "",
+          "description": "Sincere"
+        },
+        {
+          "value": "",
+          "description": "Diplomatic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity",
+      "description": "Demonstrates creative problem-solving skills and a willingness to explore new ideas.",
+      "options": [
+        {
+          "value": "",
+          "description": "Innovative"
+        },
+        {
+          "value": "",
+          "description": "Conservative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Uses humor to diffuse tension and connect with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Witty"
+        },
+        {
+          "value": "",
+          "description": "Dry"
+        }
+      ]
+    }
+  ]
+}

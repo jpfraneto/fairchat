@@ -1,0 +1,125 @@
+{
+  "fid": "882335",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents the user's approach to communication, focusing on their verbal and non-verbal cues. It reflects their ability to convey thoughts and emotions effectively.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity",
+      "description": "This dimension highlights the user's creative expression, showcasing their artistic skills and style. It represents their ability to think outside the box.",
+      "options": [
+        {
+          "value": "",
+          "description": "Imaginative"
+        },
+        {
+          "value": "",
+          "description": "Conservative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Positive Attitude",
+      "description": "This dimension emphasizes the user's optimistic outlook, reflecting their enthusiasm and energy. It represents their ability to stay positive in various situations.",
+      "options": [
+        {
+          "value": "",
+          "description": "Uplifting"
+        },
+        {
+          "value": "",
+          "description": "Critical"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Interaction",
+      "description": "This dimension captures the user's approach to social interactions, focusing on their ability to build connections with others. It represents their empathetic and supportive nature.",
+      "options": [
+        {
+          "value": "",
+          "description": "Supportive"
+        },
+        {
+          "value": "",
+          "description": "Distant"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Perfectionism",
+      "description": "This dimension highlights the user's drive for perfection, showcasing their high standards and attention to detail. It represents their dedication to achieving excellence.",
+      "options": [
+        {
+          "value": "",
+          "description": "Striving"
+        },
+        {
+          "value": "",
+          "description": "Relaxed"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Playfulness",
+      "description": "This dimension showcases the user's playful side, reflecting their ability to have fun and enjoy life. It represents their lighthearted and humorous nature.",
+      "options": [
+        {
+          "value": "",
+          "description": "Spontaneous"
+        },
+        {
+          "value": "",
+          "description": "Staid"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Authenticity",
+      "description": "This dimension highlights the user's genuine and authentic approach to self-expression, showcasing their willingness to be true to themselves. It represents their commitment to staying real.",
+      "options": [
+        {
+          "value": "",
+          "description": "Honest"
+        },
+        {
+          "value": "",
+          "description": "Dishonest"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "This dimension captures the user's curiosity and love for learning, reflecting their enthusiasm for new experiences. It represents their open-mindedness and eagerness to explore.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inquisitive"
+        },
+        {
+          "value": "",
+          "description": "Satisfied"
+        }
+      ]
+    }
+  ]
+}

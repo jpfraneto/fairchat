@@ -1,0 +1,125 @@
+{
+  "fid": "340986",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents the user's approach to exchanging information, whether it's direct and straightforward or nuanced and subtle. This quality affects how the agent interacts with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor Sense",
+      "description": "This dimension indicates the user's ability to recognize and utilize humor effectively. It influences how the agent handles social interactions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Sharp"
+        },
+        {
+          "value": "",
+          "description": "Playful"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Intelligence",
+      "description": "This dimension reflects the user's capacity to understand and empathize with others' emotions. It impacts how the agent navigates emotional conversations.",
+      "options": [
+        {
+          "value": "",
+          "description": "Empathetic"
+        },
+        {
+          "value": "",
+          "description": "Resonant"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity Level",
+      "description": "This dimension represents the user's drive to explore new ideas and concepts. It influences how the agent engages with information.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inquisitive"
+        },
+        {
+          "value": "",
+          "description": "Analytical"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Connection",
+      "description": "This dimension indicates the user's comfort level with forming and maintaining relationships. It affects how the agent interacts with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Affiliative"
+        },
+        {
+          "value": "",
+          "description": "Autonomous"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Playfulness",
+      "description": "This dimension reflects the user's ability to have fun and be light-hearted. It influences how the agent handles playful interactions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Whimsical"
+        },
+        {
+          "value": "",
+          "description": "Sarcastic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity",
+      "description": "This dimension indicates the user's capacity for innovative thinking and artistic expression. It impacts how the agent approaches creative tasks.",
+      "options": [
+        {
+          "value": "",
+          "description": "Imaginative"
+        },
+        {
+          "value": "",
+          "description": "Experimental"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Authenticity",
+      "description": "This dimension represents the user's commitment to being genuine and true to themselves. It affects how the agent presents itself to others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Honest"
+        },
+        {
+          "value": "",
+          "description": "Sincere"
+        }
+      ]
+    }
+  ]
+}

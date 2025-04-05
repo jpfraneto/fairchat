@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="twin1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#41D1FF"/>
+      <stop offset="100%" stop-color="#BD34FE"/>
+    </linearGradient>
+    <linearGradient id="twin2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#BD34FE"/>
+      <stop offset="100%" stop-color="#41D1FF"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- First twin silhouette -->
+  <path fill="url(#twin1)" d="M8,8 C8,11 10,13 12,13 C14,13 16,11 16,8 C16,5 14,3 12,3 C10,3 8,5 8,8 M9,16 L15,16 L15,28 L9,28 Z">
+  </path>
+
+  <!-- Second twin silhouette -->
+  <path fill="url(#twin2)" d="M16,8 C16,11 18,13 20,13 C22,13 24,11 24,8 C24,5 22,3 20,3 C18,3 16,5 16,8 M17,16 L23,16 L23,28 L17,28 Z">
+  </path>
+</svg>

@@ -1,0 +1,125 @@
+{
+  "fid": "4044",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears in their content as a enthusiastic and encouraging presence.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Assertive"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Considered"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest Level",
+      "description": "Shows a strong enthusiasm for frozen grapes, demonstrated through multiple mentions and uses of emojis.",
+      "options": [
+        {
+          "value": "High",
+          "description": "Passionate"
+        },
+        {
+          "value": "Low",
+          "description": "Casual"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone",
+      "description": "Typically comes across as positive and uplifting, even in the face of uncertainty.",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Bullish"
+        },
+        {
+          "value": "Pessimistic",
+          "description": "Cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sense of Humor",
+      "description": "Demonstrates a lighthearted and playful side, evident in their use of emojis and colloquialisms.",
+      "options": [
+        {
+          "value": "Dry",
+          "description": "Witty"
+        },
+        {
+          "value": "Sarcastic",
+          "description": "Snarky"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Expertise",
+      "description": "Showcases a deep understanding of crypto and HFT, with references to their 100+ placements.",
+      "options": [
+        {
+          "value": "In-depth",
+          "description": "Comprehensive"
+        },
+        {
+          "value": "Superficial",
+          "description": "Shallow"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Interacts with others in a friendly and supportive manner, evident in their comments and responses.",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Assertive"
+        },
+        {
+          "value": "Introverted",
+          "description": "Reserved"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "Demonstrates a willingness to take calculated risks, as seen in their mention of upcoming big projects.",
+      "options": [
+        {
+          "value": "High",
+          "description": "Bold"
+        },
+        {
+          "value": "Low",
+          "description": "Cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "Shows a genuine interest in learning and exploring new ideas, evident in their comments about @interestedfyi.",
+      "options": [
+        {
+          "value": "High",
+          "description": "Inquisitive"
+        },
+        {
+          "value": "Low",
+          "description": "Satisfied"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "15983",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Focus",
+      "description": "The user consistently focuses on specific topics in their content, demonstrating a clear direction and expertise.",
+      "options": [
+        {
+          "value": "In-Depth",
+          "description": "Provides detailed analysis and insights."
+        },
+        {
+          "value": "High-Level",
+          "description": "Offers brief summaries and overviews."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone",
+      "description": "The user maintains a consistent tone in their content, often using humor or sarcasm to engage with their audience.",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Uses irony and ridicule to make points."
+        },
+        {
+          "value": "Humorous",
+          "description": "Incorporates lighthearted jokes and anecdotes."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Engagement",
+      "description": "The user actively engages with their audience, responding to comments and creating a sense of community.",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Responds promptly to comments and messages."
+        },
+        {
+          "value": "Selective",
+          "description": "Responds only to particularly relevant or interesting comments."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Depth",
+      "description": "The user explores complex topics in depth, demonstrating a high level of expertise and nuance.",
+      "options": [
+        {
+          "value": "Deeper",
+          "description": "Provides more detailed analysis and insights."
+        },
+        {
+          "value": "Shallower",
+          "description": "Offers brief summaries and overviews."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Storytelling",
+      "description": "The user uses narrative techniques to convey information, making complex topics more accessible and engaging.",
+      "options": [
+        {
+          "value": "Narrative",
+          "description": "Uses storytelling to present information."
+        },
+        {
+          "value": "Expository",
+          "description": "Presents information in a straightforward, factual manner."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "The user incorporates humor into their content, often using it to break the ice or make points.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Uses clever wordplay and satire to engage with topics."
+        },
+        {
+          "value": "Dry",
+          "description": "Uses understatement and deadpan delivery to convey humor."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humility",
+      "description": "The user demonstrates humility in their content, acknowledging the limitations of their knowledge and expertise.",
+      "options": [
+        {
+          "value": "Self-Aware",
+          "description": "Acknowledges personal biases and limitations."
+        },
+        {
+          "value": "Defensive",
+          "description": " Becomes dismissive or confrontational when questioned."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Empathy",
+      "description": "The user shows empathy in their content, actively trying to understand and relate to the perspectives of others.",
+      "options": [
+        {
+          "value": "Compassionate",
+          "description": "Demonstrates genuine concern for the well-being of others."
+        },
+        {
+          "value": "Detached",
+          "description": "Treats topics as purely analytical, without emotional consideration."
+        }
+      ]
+    }
+  ]
+}

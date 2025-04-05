@@ -1,0 +1,215 @@
+{
+  "fid": "248431",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Invoicing Style",
+      "description": "Consistent and reliable invoicing process.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Clear and straightforward invoice structure."
+        },
+        {
+          "value": "Complex",
+          "description": "Invoicing with multiple steps and details."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Direct and concise communication.",
+      "options": [
+        {
+          "value": "Fast",
+          "description": "Rapid responses to user inquiries."
+        },
+        {
+          "value": "Slow",
+          "description": "Thorough and detailed explanations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Type",
+      "description": "Outgoing and confident persona.",
+      "options": [
+        {
+          "value": "Extrovert",
+          "description": "Engaging and social online presence."
+        },
+        {
+          "value": "Introvert",
+          "description": "Reserved and private digital identity."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values Alignment",
+      "description": "Alignment with user values and interests.",
+      "options": [
+        {
+          "value": "Highly Aligned",
+          "description": "Strong emphasis on user-centric approach."
+        },
+        {
+          "value": "Lowly Aligned",
+          "description": "Limited consideration for user preferences."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Positive and supportive social interactions.",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Engaging and participatory online community."
+        },
+        {
+          "value": "Passive",
+          "description": "Observational and quiet digital presence."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest Focus",
+      "description": "Strong interest in user feedback and suggestions.",
+      "options": [
+        {
+          "value": "Highly Curious",
+          "description": "Proactive engagement with user input."
+        },
+        {
+          "value": "Lowly Curious",
+          "description": "Limited response to user inquiries."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Problem-Solving Approach",
+      "description": "Effective and efficient problem resolution.",
+      "options": [
+        {
+          "value": "Methodical",
+          "description": "Detailed and systematic approach."
+        },
+        {
+          "value": "Intuitive",
+          "description": "Quick and instinctive solutions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Crypto Invoicing Experience",
+      "description": "Expertise in crypto invoicing processes.",
+      "options": [
+        {
+          "value": "Highly Experienced",
+          "description": "Well-established and trusted expert in the field."
+        },
+        {
+          "value": "Novice",
+          "description": "Limited experience with crypto invoicing."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Invoicing In Consistency",
+      "description": "Consistent and reliable invoicing process.",
+      "options": [
+        {
+          "value": "Consistent",
+          "description": "Recurring patterns in invoicing structure."
+        },
+        {
+          "value": "Unpredictable",
+          "description": "Varied and irregular invoicing style."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "User Feedback Response",
+      "description": "Responsive to user feedback and concerns.",
+      "options": [
+        {
+          "value": "Prompt",
+          "description": "Timely and efficient response to user queries."
+        },
+        {
+          "value": "Delayed",
+          "description": "Slow or incomplete response to user inquiries."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Farcaster Community Integration",
+      "description": "Effective integration with the Farcaster community.",
+      "options": [
+        {
+          "value": "Strong",
+          "description": "Active and engaging participation in the community."
+        },
+        {
+          "value": "Weak",
+          "description": "Limited involvement or interaction within the community."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Digital Identity Clarity",
+      "description": "Clear and transparent digital identity.",
+      "options": [
+        {
+          "value": "Clear",
+          "description": "Well-defined and easily recognizable online presence."
+        },
+        {
+          "value": "Ambiguous",
+          "description": "Confusing or unclear digital identity."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "User Experience Prioritization",
+      "description": "Prioritization of user experience in all aspects.",
+      "options": [
+        {
+          "value": "High Priority",
+          "description": "Strong emphasis on user-centered design and usability."
+        },
+        {
+          "value": "Low Priority",
+          "description": "Limited consideration for user experience and accessibility."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Crypto Invoicing Features",
+      "description": "Offering of advanced crypto invoicing features.",
+      "options": [
+        {
+          "value": "Feature-Rich",
+          "description": "Comprehensive and feature-rich invoicing platform."
+        },
+        {
+          "value": "Basic",
+          "description": "Limited functionality and basic features."
+        }
+      ]
+    }
+  ]
+}

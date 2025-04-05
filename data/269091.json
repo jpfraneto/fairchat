@@ -1,0 +1,125 @@
+{
+  "fid": "269091",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears in their content as someone who is enthusiastic and energetic.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Direct and to-the-point, without filter."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Taking a more subtle approach to convey ideas."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Frequently uses humor in their content to engage with others.",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Using sarcasm to add edge to their jokes."
+        },
+        {
+          "value": "Playful",
+          "description": "Employing playful language to build rapport."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Pessimism",
+      "description": "Often expresses skepticism or negativity about certain topics.",
+      "options": [
+        {
+          "value": "Resigned",
+          "description": "Giving up on a particular idea or situation."
+        },
+        {
+          "value": "Cynical",
+          "description": "Losing faith in the potential of something."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest",
+      "description": "Showcases an interest in stables and lending platforms.",
+      "options": [
+        {
+          "value": "Investor",
+          "description": "Focused on generating returns from investments."
+        },
+        {
+          "value": "Researcher",
+          "description": "Seeking to understand market trends and strategies."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Vibe",
+      "description": "At times, their tone can be off-putting or unengaging.",
+      "options": [
+        {
+          "value": "Uplifting",
+          "description": "Spreading positivity and energy."
+        },
+        {
+          "value": "Dreary",
+          "description": "Lacking enthusiasm and warmth."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Collaboration",
+      "description": "Frequently engages with others in discussions about stables.",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Focusing on individual success rather than team goals."
+        },
+        {
+          "value": "Cooperative",
+          "description": "Prioritizing collective effort and mutual support."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value",
+      "description": "Places a high value on community engagement.",
+      "options": [
+        {
+          "value": "Exclusive",
+          "description": "Prioritizing personal relationships over public interactions."
+        },
+        {
+          "value": "Inclusive",
+          "description": "Seeking to build connections with diverse groups of people."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity",
+      "description": "Sometimes displays a more creative side in their content.",
+      "options": [
+        {
+          "value": "Artistic",
+          "description": "Expressing themselves through visual or auditory elements."
+        },
+        {
+          "value": "Analytical",
+          "description": "Approaching problems with a logical and methodical mindset."
+        }
+      ]
+    }
+  ]
+}

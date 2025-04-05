@@ -1,0 +1,125 @@
+{
+  "fid": "193826",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents Pauline's tone and approach to communication.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor Style",
+      "description": "This dimension showcases Pauline's preference for humor in her content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Dry"
+        },
+        {
+          "value": "",
+          "description": "Witty"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "This dimension highlights Pauline's comfort level with expressing emotions in her content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Introverted"
+        },
+        {
+          "value": "",
+          "description": "Outgoing"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension explores Pauline's approach to social interactions and relationships.",
+      "options": [
+        {
+          "value": "",
+          "description": "Independent"
+        },
+        {
+          "value": "",
+          "description": "Interdependent"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values Alignment",
+      "description": "This dimension represents Pauline's core values and principles.",
+      "options": [
+        {
+          "value": "",
+          "description": "Pragmatic"
+        },
+        {
+          "value": "",
+          "description": "Idealistic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "This dimension showcases Pauline's hobbies, passions, and interests.",
+      "options": [
+        {
+          "value": "",
+          "description": "Curious"
+        },
+        {
+          "value": "",
+          "description": "Discerning"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "This dimension highlights Pauline's personality characteristics and strengths.",
+      "options": [
+        {
+          "value": "",
+          "description": "Adaptable"
+        },
+        {
+          "value": "",
+          "description": "Resilient"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone of Voice",
+      "description": "This dimension represents Pauline's overall tone and attitude in her content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Friendly"
+        },
+        {
+          "value": "",
+          "description": "Sarcastic"
+        }
+      ]
+    }
+  ]
+}

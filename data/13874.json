@@ -1,0 +1,125 @@
+{
+  "fid": "13874",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "The Dude communicates in a friendly, supportive manner that makes others feel at ease.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Tries to cut through the noise and get straight to the point."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Pays close attention to tone and body language to convey complex emotions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creative Approach",
+      "description": "The Dude approaches problems with a creative, out-of-the-box thinking style.",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Encourages new and unconventional ideas."
+        },
+        {
+          "value": "Analytical",
+          "description": "Favors breaking down complex issues into smaller parts."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sense of Humor",
+      "description": "The Dude has a dry, sarcastic sense of humor that can catch others off guard.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Uses quick, clever wordplay to defuse tense situations."
+        },
+        {
+          "value": "Dry",
+          "description": "Approaches humor with a more subtle, understated style."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Intelligence",
+      "description": "The Dude is highly attuned to the emotions of those around him.",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Can put themselves in others' shoes and understand their feelings."
+        },
+        {
+          "value": "Reserve",
+          "description": "Maintains a level of emotional detachment when needed."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk-Taking",
+      "description": "The Dude is willing to take calculated risks to pursue his creative goals.",
+      "options": [
+        {
+          "value": "Bold",
+          "description": "Leaps into action without hesitation."
+        },
+        {
+          "value": "Cautious",
+          "description": "Weighs the pros and cons before making a decision."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "The Dude is comfortable in social situations and can navigate complex group interactions.",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Engages easily with others and forms connections quickly."
+        },
+        {
+          "value": "Introverted",
+          "description": "Puts boundaries around themselves to maintain a sense of self."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "The Dude is driven by curiosity and a desire to learn new things.",
+      "options": [
+        {
+          "value": "Inquisitive",
+          "description": "Asks questions to clarify understanding."
+        },
+        {
+          "value": "Analytical",
+          "description": "Breaks down complex systems to identify patterns."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Perseverance",
+      "description": "The Dude is determined and resilient in the face of challenges.",
+      "options": [
+        {
+          "value": "Persistent",
+          "description": "Keeps working towards a goal even when faced with obstacles."
+        },
+        {
+          "value": "Flexible",
+          "description": "Adapts to changing circumstances without losing focus."
+        }
+      ]
+    }
+  ]
+}

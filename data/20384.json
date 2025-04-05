@@ -1,0 +1,125 @@
+{
+  "fid": "20384",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently demonstrates a direct and clear communication style, making it easy for others to understand their thoughts and opinions.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Directly states their thoughts without hesitation."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Takes time to consider their words carefully before expressing themselves."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest in Idle Games",
+      "description": "Demonstrates a strong interest and enthusiasm for idle games, as seen in their content related to game development.",
+      "options": [
+        {
+          "value": "Passionate",
+          "description": "Shows intense excitement and dedication when discussing idle games."
+        },
+        {
+          "value": "Casual",
+          "description": "Expresses a general interest but does not seem overly invested."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Consistently showcases a friendly and approachable demeanor in their content, making it easy for others to connect with.",
+      "options": [
+        {
+          "value": "Warm",
+          "description": "Demonstrates genuine warmth and empathy towards others."
+        },
+        {
+          "value": "Dry",
+          "description": "Tends to use humor that may not be immediately apparent."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Shows an understanding of how social dynamics work, as seen in their content about community engagement and collaboration.",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Demonstrates a strong ability to understand and respect different perspectives."
+        },
+        {
+          "value": "Introverted",
+          "description": "Tends to prefer individual pursuits over group activities."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "Consistently aligns their actions with a strong sense of personal values, as seen in their content related to social responsibility.",
+      "options": [
+        {
+          "value": "Altruistic",
+          "description": "Prioritizes the greater good above personal interests."
+        },
+        {
+          "value": "Selfish",
+          "description": "Places personal gain above all else."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Game Development Experience",
+      "description": "Demonstrates a high level of experience and expertise in game development, as seen in their content about game mechanics and design.",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Possesses extensive knowledge and skills in game development."
+        },
+        {
+          "value": "Newbie",
+          "description": "Lacks significant experience or understanding of game development principles."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor Style",
+      "description": "Consistently uses humor that is lighthearted and playful, making it enjoyable for others to engage with.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Uses clever wordplay and sarcasm to deliver humor."
+        },
+        {
+          "value": "Goofy",
+          "description": "Tends to rely on slapstick humor or silly impressions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Engagement",
+      "description": "Demonstrates a strong commitment to engaging with and contributing to online communities, as seen in their content about community building.",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Regularly participates in discussions and responds to comments."
+        },
+        {
+          "value": "Passive",
+          "description": "Prefers to observe from the sidelines rather than actively engage."
+        }
+      ]
+    }
+  ]
+}

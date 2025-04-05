@@ -1,0 +1,125 @@
+{
+  "fid": "18517",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents the user's approach to expressing themselves through their casts.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "App Creation Frequency",
+      "description": "This dimension showcases the user's productivity and ability to create content.",
+      "options": [
+        {
+          "value": "",
+          "description": "High"
+        },
+        {
+          "value": "",
+          "description": "Low"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone of Voice",
+      "description": "This dimension highlights the user's overall tone and attitude in their casts.",
+      "options": [
+        {
+          "value": "",
+          "description": "Friendly"
+        },
+        {
+          "value": "",
+          "description": "Dry"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Engagement",
+      "description": "This dimension demonstrates the user's level of involvement with their audience.",
+      "options": [
+        {
+          "value": "",
+          "description": "Highly"
+        },
+        {
+          "value": "",
+          "description": "Slightly"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Technical Expertise",
+      "description": "This dimension showcases the user's proficiency in their chosen field.",
+      "options": [
+        {
+          "value": "",
+          "description": "Advanced"
+        },
+        {
+          "value": "",
+          "description": "Basic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "This dimension highlights the user's ability to convey emotions through their casts.",
+      "options": [
+        {
+          "value": "",
+          "description": "Open"
+        },
+        {
+          "value": "",
+          "description": "Closed"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Creation Speed",
+      "description": "This dimension demonstrates the user's efficiency in creating content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Rapid"
+        },
+        {
+          "value": "",
+          "description": "Leisurely"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Audience Feedback",
+      "description": "This dimension showcases the user's sensitivity to their audience's opinions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Attentive"
+        },
+        {
+          "value": "",
+          "description": "Neglectful"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "784003",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as a mix of aggressive and confrontational language, but also shows moments of vulnerability and empathy.",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Tends to cut through the noise with direct, blunt statements."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Often uses clever wordplay and subtle humor to convey their point."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Frequently interacts with others in a competitive and adversarial manner, but also shows capacity for loyalty and support.",
+      "options": [
+        {
+          "value": "Competitive",
+          "description": "Tends to approach social interactions as a challenge or a contest."
+        },
+        {
+          "value": "Collaborative",
+          "description": "Often seeks to build alliances and work together with others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Places a strong emphasis on individuality, self-expression, and authenticity.",
+      "options": [
+        {
+          "value": "Individualistic",
+          "description": "Prioritizes personal freedom and autonomy."
+        },
+        {
+          "value": "Collectivist",
+          "description": "Sees the needs of the group as more important than individual desires."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Show a strong interest in internet culture, social commentary, and pop culture.",
+      "options": [
+        {
+          "value": "Subversive",
+          "description": "Often seeks to challenge dominant narratives and societal norms."
+        },
+        {
+          "value": "Mainstream",
+          "description": "Generally aligns with mainstream cultural trends."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Quirks",
+      "description": "Displays a tendency towards sarcasm, irony, and dark humor.",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Often uses tongue-in-cheek language to deflect or make points."
+        },
+        {
+          "value": "Optimistic",
+          "description": "Tends to approach life with a more positive outlook."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Loyalty",
+      "description": "Shows a strong sense of loyalty and commitment to those they care about.",
+      "options": [
+        {
+          "value": "Dedicated",
+          "description": "Will go to great lengths to support and protect their loved ones."
+        },
+        {
+          "value": "Unreliable",
+          "description": "Tends to be inconsistent in their commitments and follow-through."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Displays a unique sense of humor that often blends dark and absurd elements.",
+      "options": [
+        {
+          "value": "Dark",
+          "description": "Often uses humor to comment on or critique serious issues."
+        },
+        {
+          "value": "Lighthearted",
+          "description": "Tends to use humor to diffuse tension or create a playful atmosphere."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Shows a tendency towards emotional intensity and raw honesty.",
+      "options": [
+        {
+          "value": "Intense",
+          "description": "Tends to express themselves with great passion and fervor."
+        },
+        {
+          "value": "Reserve",
+          "description": "Often struggles to open up or show vulnerability."
+        }
+      ]
+    }
+  ]
+}

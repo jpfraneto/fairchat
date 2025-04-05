@@ -1,0 +1,125 @@
+{
+  "fid": "17555",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents how consistently Jonathan presents information in a clear and concise manner, making it easily understandable for his audience.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "This dimension represents how Jonathan consistently communicates his values and principles, showcasing a strong sense of integrity.",
+      "options": [
+        {
+          "value": "",
+          "description": "Strongly Aligned"
+        },
+        {
+          "value": "",
+          "description": "Somewhat Aligned"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension represents how Jonathan interacts with his audience, often using a supportive and collaborative tone.",
+      "options": [
+        {
+          "value": "",
+          "description": "Empathetic"
+        },
+        {
+          "value": "",
+          "description": "Detached"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest Focus",
+      "description": "This dimension represents how Jonathan consistently explores and discusses topics related to his interests, such as web3 and basketball.",
+      "options": [
+        {
+          "value": "",
+          "description": "In-Depth"
+        },
+        {
+          "value": "",
+          "description": "Shallow"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Trait",
+      "description": "This dimension represents how Jonathan consistently showcases a positive and encouraging personality, often using emotive language.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inspiring"
+        },
+        {
+          "value": "",
+          "description": "Negative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Digital Cloning",
+      "description": "This dimension represents how Jonathan would like to be perceived and interacted with in a digital setting, emphasizing authenticity and approachability.",
+      "options": [
+        {
+          "value": "",
+          "description": "Authentic"
+        },
+        {
+          "value": "",
+          "description": "Artificial"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Creation",
+      "description": "This dimension represents how Jonathan consistently engages with his audience through content creation, often using engaging narratives.",
+      "options": [
+        {
+          "value": "",
+          "description": "Engaging"
+        },
+        {
+          "value": "",
+          "description": "Dull"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Learning Style",
+      "description": "This dimension represents how Jonathan consistently approaches learning and growth, often using experiential and hands-on methods.",
+      "options": [
+        {
+          "value": "",
+          "description": "Experiential"
+        },
+        {
+          "value": "",
+          "description": "Theoretical"
+        }
+      ]
+    }
+  ]
+}

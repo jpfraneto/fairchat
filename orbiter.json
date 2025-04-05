@@ -1,0 +1,6 @@
+{
+  "siteId": "4a84ff38-bcf4-4e72-bcfb-07ac4658479f",
+  "domain": "fairchat",
+  "buildCommand": "pnpm run build",
+  "buildDir": "dist"
+}

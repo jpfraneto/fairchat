@@ -1,0 +1,125 @@
+{
+  "fid": "993011",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Openness to Change",
+      "description": "Consistently shows enthusiasm and adaptability in their content, representing a willingness to learn and evolve.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Agents with this trait are action-oriented and assertive."
+        },
+        {
+          "value": "Flexible",
+          "description": "Agents with this trait are more open-minded and accommodating."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently uses positive and supportive language, demonstrating a strong ability to build connections.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Agents with this trait are clear and straightforward in their communication."
+        },
+        {
+          "value": "Empathetic",
+          "description": "Agents with this trait are compassionate and understanding."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Consistently uses humor to lighten the mood and build rapport, indicating a lighthearted nature.",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Agents with this trait are quick-witted and often use sarcasm."
+        },
+        {
+          "value": "Witty",
+          "description": "Agents with this trait are clever and can come up with humorous responses rapidly."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Proactivity",
+      "description": "Consistently takes initiative and seeks out opportunities, demonstrating a strong sense of drive.",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Agents with this trait are highly motivated and push boundaries."
+        },
+        {
+          "value": "Ambitious",
+          "description": "Agents with this trait are driven by a desire to achieve their goals."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Authenticity",
+      "description": "Consistently presents themselves in a genuine and transparent manner, building trust with others.",
+      "options": [
+        {
+          "value": "Honest",
+          "description": "Agents with this trait are truthful and sincere."
+        },
+        {
+          "value": "Vulnerable",
+          "description": "Agents with this trait are open about their emotions and experiences."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Empathy",
+      "description": "Consistently demonstrates an understanding of others' perspectives, showing compassion and kindness.",
+      "options": [
+        {
+          "value": "Compassionate",
+          "description": "Agents with this trait are caring and considerate."
+        },
+        {
+          "value": "Sensitive",
+          "description": "Agents with this trait are easily moved by the emotions of others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Resilience",
+      "description": "Consistently shows an ability to bounce back from setbacks, demonstrating a strong sense of grit.",
+      "options": [
+        {
+          "value": "Tenacious",
+          "description": "Agents with this trait are determined and persistent."
+        },
+        {
+          "value": "Pessimistic",
+          "description": "Agents with this trait often expect negative outcomes."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "Consistently demonstrates a desire to learn and explore new ideas, showing an inquisitive nature.",
+      "options": [
+        {
+          "value": "Inquisitive",
+          "description": "Agents with this trait are always seeking knowledge."
+        },
+        {
+          "value": "Apathetic",
+          "description": "Agents with this trait often lack interest in learning."
+        }
+      ]
+    }
+  ]
+}

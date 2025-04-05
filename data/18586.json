@@ -1,0 +1,125 @@
+{
+  "fid": "18586",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as a mix of straightforward and empathetic in their responses.",
+      "options": [
+        {
+          "value": "",
+          "description": "Aggressive"
+        },
+        {
+          "value": "",
+          "description": "Collaborative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Frequently discusses topics such as art, music, and self-improvement.",
+      "options": [
+        {
+          "value": "",
+          "description": "Introverted"
+        },
+        {
+          "value": "",
+          "description": "Outgoing"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Emphasizes the importance of community, creativity, and growth.",
+      "options": [
+        {
+          "value": "",
+          "description": "Competitive"
+        },
+        {
+          "value": "",
+          "description": "Cooperative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Appears to be a creative problem solver with a dry sense of humor.",
+      "options": [
+        {
+          "value": "",
+          "description": "Serious"
+        },
+        {
+          "value": "",
+          "description": "Playful"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Often engages in light-hearted banter and enjoys teasing others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Confrontational"
+        },
+        {
+          "value": "",
+          "description": "Affectionate"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Learning Style",
+      "description": "Seems to prefer learning through hands-on experience and real-world applications.",
+      "options": [
+        {
+          "value": "",
+          "description": "Theoretical"
+        },
+        {
+          "value": "",
+          "description": "Practical"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Decision Making",
+      "description": "Tends to weigh multiple factors before making a decision, often seeking input from others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Spontaneous"
+        },
+        {
+          "value": "",
+          "description": "Reflective"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Uses humor to diffuse tension and build rapport with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Dry"
+        },
+        {
+          "value": "",
+          "description": "Witty"
+        }
+      ]
+    }
+  ]
+}

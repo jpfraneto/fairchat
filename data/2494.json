@@ -1,0 +1,125 @@
+{
+  "fid": "2494",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This user consistently presents themselves in a straightforward and blunt manner, often prioritizing honesty over tact.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone of Voice",
+      "description": "This user's writing often comes across as sarcastic or dismissive, suggesting a tendency to be confrontational.",
+      "options": [
+        {
+          "value": "",
+          "description": "Sarcastic"
+        },
+        {
+          "value": "",
+          "description": "Friendly"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Level of Emotionality",
+      "description": "This user's content tends to lack emotional depth, with few examples of self-expression or vulnerability.",
+      "options": [
+        {
+          "value": "",
+          "description": "High"
+        },
+        {
+          "value": "",
+          "description": "Low"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Engagement Level",
+      "description": "This user tends to be somewhat disengaged in their interactions, with few examples of enthusiasm or excitement.",
+      "options": [
+        {
+          "value": "",
+          "description": "High"
+        },
+        {
+          "value": "",
+          "description": "Low"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Writing Style",
+      "description": "This user's writing often lacks a clear narrative structure or attention to detail, suggesting a tendency to be somewhat careless.",
+      "options": [
+        {
+          "value": "",
+          "description": "Concise"
+        },
+        {
+          "value": "",
+          "description": "Verbose"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Depth",
+      "description": "This user's content tends to focus on surface-level topics or observations, with few examples of in-depth analysis or insight.",
+      "options": [
+        {
+          "value": "",
+          "description": "Shallow"
+        },
+        {
+          "value": "",
+          "description": "Deep"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This user tends to prioritize individual perspective over group discussion or collaborative effort.",
+      "options": [
+        {
+          "value": "",
+          "description": "Independent"
+        },
+        {
+          "value": "",
+          "description": "Interdependent"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor Style",
+      "description": "This user's humor often comes across as forced or unnatural, suggesting a tendency to struggle with witty banter.",
+      "options": [
+        {
+          "value": "",
+          "description": "Quick-witted"
+        },
+        {
+          "value": "",
+          "description": "Forced"
+        }
+      ]
+    }
+  ]
+}

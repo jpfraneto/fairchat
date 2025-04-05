@@ -1,0 +1,125 @@
+{
+  "fid": "198340",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Jay consistently presents himself as a direct and to-the-point person in his content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "Jay values transparency, honesty, and accountability in his online interactions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Strongly Agree"
+        },
+        {
+          "value": "",
+          "description": "Somewhat Agree"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Jay tends to engage with others in a collaborative and supportive manner.",
+      "options": [
+        {
+          "value": "",
+          "description": "Cooperative"
+        },
+        {
+          "value": "",
+          "description": "Competitive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest Diversity",
+      "description": "Jay demonstrates an interest in various web3-related topics and operations.",
+      "options": [
+        {
+          "value": "",
+          "description": "Broad"
+        },
+        {
+          "value": "",
+          "description": "Narrow"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Jay uses humor to break the ice or add tone to his content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Witty"
+        },
+        {
+          "value": "",
+          "description": "Dry"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "Jay appears to be comfortable with calculated risk-taking in his online pursuits.",
+      "options": [
+        {
+          "value": "",
+          "description": "High"
+        },
+        {
+          "value": "",
+          "description": "Low"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Authority Seeking",
+      "description": "Jay does not frequently seek external validation or authority on his opinions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Seeker"
+        },
+        {
+          "value": "",
+          "description": "Non-Seeker"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Self-Improvement Focus",
+      "description": "Jay frequently expresses a desire for personal growth and self-improvement.",
+      "options": [
+        {
+          "value": "",
+          "description": "Highly Motivated"
+        },
+        {
+          "value": "",
+          "description": "Somewhat Motivated"
+        }
+      ]
+    }
+  ]
+}

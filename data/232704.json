@@ -1,0 +1,125 @@
+{
+  "fid": "232704",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Characterized by direct and clear expression of thoughts, often using emojis to emphasize points.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Artistic Approach",
+      "description": "Focused on the intersection of art and technology, often incorporating generative elements into their work.",
+      "options": [
+        {
+          "value": "",
+          "description": "Analytical"
+        },
+        {
+          "value": "",
+          "description": "Creative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone",
+      "description": "Often comes across as supportive and encouraging, with a positive tone.",
+      "options": [
+        {
+          "value": "",
+          "description": "Positive"
+        },
+        {
+          "value": "",
+          "description": "Critical"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Displays traits such as empathy and curiosity, often in their responses to others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Empathetic"
+        },
+        {
+          "value": "",
+          "description": "Detached"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value System",
+      "description": "Places a strong emphasis on creativity, self-expression, and community engagement.",
+      "options": [
+        {
+          "value": "",
+          "description": "Individualistic"
+        },
+        {
+          "value": "",
+          "description": "Collectivist"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Learning Style",
+      "description": "Prefers a hands-on approach to learning, often incorporating experiments and prototyping into their development.",
+      "options": [
+        {
+          "value": "",
+          "description": "Theoretical"
+        },
+        {
+          "value": "",
+          "description": "Practical"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Displays a strong ability to build connections with others, often through their engagement with the digital art community.",
+      "options": [
+        {
+          "value": "",
+          "description": "Introverted"
+        },
+        {
+          "value": "",
+          "description": "Extroverted"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity Level",
+      "description": " exhibit a high level of curiosity, often asking questions and seeking out new knowledge.",
+      "options": [
+        {
+          "value": "",
+          "description": "Cautious"
+        },
+        {
+          "value": "",
+          "description": "Inquisitive"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "760567",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents the user's approach to sharing their thoughts and ideas, as demonstrated through their cast and profile.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "This dimension highlights the user's passions and hobbies, which are evident through their cast and profile.",
+      "options": [
+        {
+          "value": "",
+          "description": "Tech"
+        },
+        {
+          "value": "",
+          "description": "Gaming"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "This dimension represents a significant aspect of the user's personality, as demonstrated through their cast and profile.",
+      "options": [
+        {
+          "value": "",
+          "description": "Outgoing"
+        },
+        {
+          "value": "",
+          "description": "Introverted"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension highlights the user's approach to interacting with others, as demonstrated through their cast and profile.",
+      "options": [
+        {
+          "value": "",
+          "description": "Friendly"
+        },
+        {
+          "value": "",
+          "description": "Formal"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "This dimension represents a significant aspect of the user's values, as demonstrated through their cast and profile.",
+      "options": [
+        {
+          "value": "",
+          "description": "Open-minded"
+        },
+        {
+          "value": "",
+          "description": "Closed-minded"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "This dimension highlights the user's sense of humor, which is evident through their cast and profile.",
+      "options": [
+        {
+          "value": "",
+          "description": "Sarcastic"
+        },
+        {
+          "value": "",
+          "description": "Dry"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity",
+      "description": "This dimension represents the user's level of creativity, as demonstrated through their cast and profile.",
+      "options": [
+        {
+          "value": "",
+          "description": "High"
+        },
+        {
+          "value": "",
+          "description": "Low"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "This dimension highlights the user's level of curiosity, which is evident through their cast and profile.",
+      "options": [
+        {
+          "value": "",
+          "description": "High"
+        },
+        {
+          "value": "",
+          "description": "Low"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "2134",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents Kazi's consistent emphasis on directness and assertiveness in their posts.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Direct, to-the-point responses"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Considerate and thoughtful responses"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Confidence Level",
+      "description": "This dimension reflects Kazi's consistent display of confidence in their opinions and ideas.",
+      "options": [
+        {
+          "value": "High",
+          "description": "Unapologetic and unwavering"
+        },
+        {
+          "value": "Low",
+          "description": "Cautious and reserved"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Leadership Style",
+      "description": "This dimension represents Kazi's tendency to assert themselves as a leader or authority figure.",
+      "options": [
+        {
+          "value": "Authoritative",
+          "description": "Commanding and decisive"
+        },
+        {
+          "value": "Collaborative",
+          "description": "Inclusive and participatory"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "This dimension reflects Kazi's tendency to express their emotions openly and honestly.",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Honest and authentic"
+        },
+        {
+          "value": " Reserved",
+          "description": "Private and guarded"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "This dimension represents Kazi's willingness to take risks and challenge the status quo.",
+      "options": [
+        {
+          "value": "High",
+          "description": "Adventurous and bold"
+        },
+        {
+          "value": "Low",
+          "description": "Conservative and cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sense of Humor",
+      "description": "This dimension reflects Kazi's tendency to use humor as a tool for connection and bonding.",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Witty and ironic"
+        },
+        {
+          "value": "Dry",
+          "description": "Deadpan and unapologetic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Prioritization",
+      "description": "This dimension represents Kazi's consistent emphasis on certain values over others.",
+      "options": [
+        {
+          "value": "Output-Oriented",
+          "description": "Results-driven and productive"
+        },
+        {
+          "value": "Process-Oriented",
+          "description": "Methodical and deliberate"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension reflects Kazi's tendency to interact with others in a particular way.",
+      "options": [
+        {
+          "value": "Dominating",
+          "description": "Taking charge and leading the conversation"
+        },
+        {
+          "value": "Submissive",
+          "description": "Listening and observing"
+        }
+      ]
+    }
+  ]
+}

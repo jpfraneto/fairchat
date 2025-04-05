@@ -1,0 +1,125 @@
+{
+  "fid": "426",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents Brian Kim's ability to effectively convey his thoughts and ideas.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "This dimension captures Brian Kim's core personality characteristics that are consistently reflected in his content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Outgoing"
+        },
+        {
+          "value": "",
+          "description": "Introverted"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values and Interests",
+      "description": "This dimension highlights Brian Kim's core values and interests that drive his content creation.",
+      "options": [
+        {
+          "value": "",
+          "description": "Adventure-seeker"
+        },
+        {
+          "value": "",
+          "description": "Conventialist"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension represents Brian Kim's approach to social interactions and relationships.",
+      "options": [
+        {
+          "value": "",
+          "description": "Outgoing"
+        },
+        {
+          "value": "",
+          "description": "Reservations"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor Style",
+      "description": "This dimension captures Brian Kim's sense of humor and how it is presented in his content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Sarcastic"
+        },
+        {
+          "value": "",
+          "description": "Dry"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Motivations",
+      "description": "This dimension represents Brian Kim's motivations and drives that propel his content creation.",
+      "options": [
+        {
+          "value": "",
+          "description": "Intrinsic"
+        },
+        {
+          "value": "",
+          "description": "Extrinsic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "This dimension highlights Brian Kim's willingness to take risks and try new things.",
+      "options": [
+        {
+          "value": "",
+          "description": "Thrill-seeker"
+        },
+        {
+          "value": "",
+          "description": "Cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creative Approach",
+      "description": "This dimension captures Brian Kim's approach to creativity and innovation.",
+      "options": [
+        {
+          "value": "",
+          "description": "Outside-the-box"
+        },
+        {
+          "value": "",
+          "description": "Conventional"
+        }
+      ]
+    }
+  ]
+}

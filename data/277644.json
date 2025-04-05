@@ -1,0 +1,125 @@
+{
+  "fid": "277644",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as direct and passionate in their conversations.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Tends to cut through the noise with straightforward honesty."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Often uses subtlety and restraint to convey complex ideas."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Passion Level",
+      "description": "Demonstrates intense enthusiasm for their topics, especially in discussions about crypto and AI.",
+      "options": [
+        {
+          "value": "High",
+          "description": "Approaches conversations with unbridled excitement and energy."
+        },
+        {
+          "value": "Low",
+          "description": "Maintains a more subdued tone when discussing technical subjects."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Exhibits a strong interest in futurism, AI development, and crypto currency.",
+      "options": [
+        {
+          "value": "Futuristic",
+          "description": "Sees the world through the lens of emerging technologies and societal shifts."
+        },
+        {
+          "value": "Nostalgic",
+          "description": "Demonstrates a fondness for historical events and analog technologies."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Uses humor to break the ice and build connections with their audience.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Employing clever wordplay and satire to make pointed observations."
+        },
+        {
+          "value": "Dry",
+          "description": "Maintaining a deadpan tone for an understated sense of humor."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curiosity",
+      "description": "Exhibits a strong desire to learn and explore new ideas, especially in their cast text.",
+      "options": [
+        {
+          "value": "Inquisitive",
+          "description": "Asking probing questions to clarify concepts and gather information."
+        },
+        {
+          "value": "Detached",
+          "description": "Approaching topics with a neutral or objective mindset."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Collaboration",
+      "description": "Demonstrates a willingness to work together and engage in constructive dialogue.",
+      "options": [
+        {
+          "value": "Cooperative",
+          "description": "Supporting others' ideas while contributing their own insights."
+        },
+        {
+          "value": "Competitive",
+          "description": "Engaging in debates and discussions to establish dominance."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sensory Experience",
+      "description": "Describing experiences with sensory details, such as sounds or smells.",
+      "options": [
+        {
+          "value": "Vivid",
+          "description": "Painting vivid pictures with sensory language to engage the audience."
+        },
+        {
+          "value": "Minimalist",
+          "description": "Using concise and simple descriptions to convey essential information."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone",
+      "description": "Maintaining a tone that is respectful and empathetic in their interactions.",
+      "options": [
+        {
+          "value": "Empathetic",
+          "description": "Showing understanding and compassion towards others' perspectives."
+        },
+        {
+          "value": "Sarcastic",
+          "description": "Employing irony or mockery to express dissent or frustration."
+        }
+      ]
+    }
+  ]
+}

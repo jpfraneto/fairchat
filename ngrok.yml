@@ -1,0 +1,7 @@
+tunnels:
+  frontend:
+    addr: 8080 # Your frontend port
+    proto: http
+  backend:
+    addr: 3000 # Your backend port
+    proto: http

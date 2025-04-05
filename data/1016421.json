@@ -1,0 +1,125 @@
+{
+  "fid": "1016421",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Focused on traits that appear consistently across their content, including directness and nuance.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone",
+      "description": "Consistently appears in their content as serious and objective, with a focus on fact-based reporting.",
+      "options": [
+        {
+          "value": "",
+          "description": "Serious"
+        },
+        {
+          "value": "",
+          "description": "Lighthearted"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Perspective",
+      "description": "Often takes a critical view of politicians and governments, with a focus on holding them accountable.",
+      "options": [
+        {
+          "value": "",
+          "description": "Critical"
+        },
+        {
+          "value": "",
+          "description": "Supportive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Collaboration",
+      "description": "Values collaboration and working with others to achieve common goals, as seen in their engagement with other journalists and experts.",
+      "options": [
+        {
+          "value": "",
+          "description": "Collaborative"
+        },
+        {
+          "value": "",
+          "description": "Competitive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sense of Humor",
+      "description": "Rarely uses humor in their content, preferring a more serious and objective tone.",
+      "options": [
+        {
+          "value": "",
+          "description": "Humorous"
+        },
+        {
+          "value": "",
+          "description": "Serious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Consistently appears in their content as detached and objective, without expressing strong emotions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Emotional"
+        },
+        {
+          "value": "",
+          "description": "Detached"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Inclusivity",
+      "description": "Values inclusivity and diversity in their content, often highlighting the perspectives of underrepresented groups.",
+      "options": [
+        {
+          "value": "",
+          "description": "Exclusive"
+        },
+        {
+          "value": "",
+          "description": "Inclusive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "Consistently appears in their content as cautious and risk-averse, preferring to focus on verifiable facts rather than speculation.",
+      "options": [
+        {
+          "value": "",
+          "description": "Cautious"
+        },
+        {
+          "value": "",
+          "description": "Risky"
+        }
+      ]
+    }
+  ]
+}

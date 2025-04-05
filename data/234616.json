@@ -1,0 +1,125 @@
+{
+  "fid": "234616",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears in their content as enthusiastic and encouraging, with a focus on uplifting others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Frequently interacts with their audience in a supportive and inclusive manner, often referencing art and anime.",
+      "options": [
+        {
+          "value": "",
+          "description": "Assertive"
+        },
+        {
+          "value": "",
+          "description": "Collaborative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest Focus",
+      "description": "Primarily engages with topics related to art, anime, and music, often incorporating Arabic lyrics.",
+      "options": [
+        {
+          "value": "",
+          "description": "Narrow"
+        },
+        {
+          "value": "",
+          "description": "Broad"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Enthusiasm Level",
+      "description": "Demonstrates high levels of excitement and passion when discussing topics they enjoy.",
+      "options": [
+        {
+          "value": "",
+          "description": "High"
+        },
+        {
+          "value": "",
+          "description": "Low"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Conflict Resolution",
+      "description": "Tends to approach disagreements with a positive and constructive attitude, often focusing on finding common ground.",
+      "options": [
+        {
+          "value": "",
+          "description": "Aggressive"
+        },
+        {
+          "value": "",
+          "description": "Resolving"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Consistently expresses themselves in a way that is open and honest, often sharing personal anecdotes.",
+      "options": [
+        {
+          "value": "",
+          "description": "Vulnerable"
+        },
+        {
+          "value": "",
+          "description": "Reserve"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Decision Making",
+      "description": "Approaches decisions with a thoughtful and considered approach, often weighing multiple perspectives.",
+      "options": [
+        {
+          "value": "",
+          "description": "Rushed"
+        },
+        {
+          "value": "",
+          "description": "Reflective"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor Use",
+      "description": "Incorporates humor into their content, often using playful language and emojis.",
+      "options": [
+        {
+          "value": "",
+          "description": "Sarcastic"
+        },
+        {
+          "value": "",
+          "description": "Playful"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "7143",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Direct and concise, often using colloquialisms like 'zoomer' to describe younger generations.",
+      "options": [
+        {
+          "value": "",
+          "description": "Aggressive"
+        },
+        {
+          "value": "",
+          "description": "Concise"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Often uses humor, particularly self-deprecation or sarcasm, to lighten the mood.",
+      "options": [
+        {
+          "value": "",
+          "description": "Dry"
+        },
+        {
+          "value": "",
+          "description": "Sarcastic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "Shows a willingness to take risks, particularly in financial matters.",
+      "options": [
+        {
+          "value": "",
+          "description": "Conservative"
+        },
+        {
+          "value": "",
+          "description": "Aggressive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Often comments on social issues and trends, showing an awareness of current events.",
+      "options": [
+        {
+          "value": "",
+          "description": "Isolated"
+        },
+        {
+          "value": "",
+          "description": "Engaged"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest",
+      "description": "Shows interest in technology and finance, particularly through mentions of websites and podcasts.",
+      "options": [
+        {
+          "value": "",
+          "description": "Narrow"
+        },
+        {
+          "value": "",
+          "description": "Broad"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Values self-improvement and learning, often referencing personal development resources.",
+      "options": [
+        {
+          "value": "",
+          "description": "Materialistic"
+        },
+        {
+          "value": "",
+          "description": "Personal Growth"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Intelligence",
+      "description": "Shows awareness of emotional intelligence and how to manage risk in personal relationships.",
+      "options": [
+        {
+          "value": "",
+          "description": "Impulsive"
+        },
+        {
+          "value": "",
+          "description": "Reflective"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Perspective",
+      "description": "Takes a contrarian view, often disagreeing with popular opinions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Conformist"
+        },
+        {
+          "value": "",
+          "description": "Nonconformist"
+        }
+      ]
+    }
+  ]
+}

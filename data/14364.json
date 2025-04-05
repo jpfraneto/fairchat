@@ -1,0 +1,125 @@
+{
+  "fid": "14364",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Campaigning Style",
+      "description": "Consistently campaigns using public transportation, showcasing a commitment to accessibility and community engagement.",
+      "options": [
+        {
+          "value": "Organic",
+          "description": "Using grassroots methods to reach the masses"
+        },
+        {
+          "value": "Structured",
+          "description": "Following a well-planned strategy to maximize impact"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Tends to be direct and outspoken, with a tendency towards humor and sarcasm.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Getting straight to the point"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Considering multiple perspectives"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Focus",
+      "description": "Places a strong emphasis on community and social justice, often using their platform to raise awareness about important issues.",
+      "options": [
+        {
+          "value": "Activist",
+          "description": "Working tirelessly for change"
+        },
+        {
+          "value": "Ambassador",
+          "description": "Representing the community with dignity"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor and Sarcasm",
+      "description": "Frequently uses humor and sarcasm in their online presence, often to make pointed commentary on social issues.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Quick-witted and sharp-tongued"
+        },
+        {
+          "value": "Dry",
+          "description": "Using humor to deflect or criticize"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Seems to have a strong sense of camaraderie with their opponents, even in heated debates.",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Working together towards common goals"
+        },
+        {
+          "value": "Confrontational",
+          "description": "Engaging in direct, sometimes adversarial, debate"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values and Beliefs",
+      "description": "Appears to hold strong anti-Mosque or Islamophobic views, as evidenced by their previous posts.",
+      "options": [
+        {
+          "value": "Progressive",
+          "description": "Advocating for social justice and equality"
+        },
+        {
+          "value": "Traditionalist",
+          "description": "Embracing conservative values and practices"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Content Style",
+      "description": "Often shares content that is humorous, irreverent, or provocative, suggesting a willingness to challenge social norms.",
+      "options": [
+        {
+          "value": "Provocative",
+          "description": "Pushing boundaries and challenging the status quo"
+        },
+        {
+          "value": "Inoffensive",
+          "description": "Avoiding controversy and maintaining a low profile"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Engagement Style",
+      "description": "Responds to comments and messages in a fast-paced, dynamic manner, indicating a desire for engagement and interaction.",
+      "options": [
+        {
+          "value": "Energetic",
+          "description": "Enthusiastic and responsive"
+        },
+        {
+          "value": "Withdrawn",
+          "description": "Avoiding conflict or confrontation"
+        }
+      ]
+    }
+  ]
+}

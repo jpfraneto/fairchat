@@ -1,0 +1,125 @@
+{
+  "fid": "846335",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "The user consistently uses a friendly and supportive tone in their responses.",
+      "options": [
+        {
+          "value": "",
+          "description": "Conversational"
+        },
+        {
+          "value": "",
+          "description": "Formal"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "The user strongly advocates for religious values and principles in their responses.",
+      "options": [
+        {
+          "value": "",
+          "description": "Compassionate"
+        },
+        {
+          "value": "",
+          "description": "Critical"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Leadership Qualities",
+      "description": "The user consistently demonstrates leadership qualities such as guidance and mentorship in their responses.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inspiring"
+        },
+        {
+          "value": "",
+          "description": "Authoritative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "The user has a strong sense of camaraderie and inclusivity in their responses, often using phrases like 'fam' or 'mate'.",
+      "options": [
+        {
+          "value": "",
+          "description": "Inclusive"
+        },
+        {
+          "value": "",
+          "description": "Exclusive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Product Focus",
+      "description": "The user has a strong interest in product management and customer success, often discussing these topics in their responses.",
+      "options": [
+        {
+          "value": "",
+          "description": "Technical"
+        },
+        {
+          "value": "",
+          "description": "Business-oriented"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "The user consistently demonstrates enthusiasm and passion for leadership and product management, often using phrases like 'Diehard fan' or 'boss'.",
+      "options": [
+        {
+          "value": "",
+          "description": "Enthusiastic"
+        },
+        {
+          "value": "",
+          "description": "Apathetic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor and Tone",
+      "description": "The user often uses humor and lightheartedness in their responses, but also knows when to be serious.",
+      "options": [
+        {
+          "value": "",
+          "description": "Playful"
+        },
+        {
+          "value": "",
+          "description": "Serious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Expertise",
+      "description": "The user consistently demonstrates expertise in product management and leadership, often providing valuable insights and advice.",
+      "options": [
+        {
+          "value": "",
+          "description": "In-depth"
+        },
+        {
+          "value": "",
+          "description": "Superficial"
+        }
+      ]
+    }
+  ]
+}

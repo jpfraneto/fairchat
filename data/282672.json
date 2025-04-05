@@ -1,0 +1,125 @@
+{
+  "fid": "282672",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as witty and sarcastic in their responses.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Tends to use humor to deflect or make a point."
+        },
+        {
+          "value": "Direct",
+          "description": "Generally straightforward and to-the-point in their communication."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Job Orientation",
+      "description": "Frequently expresses frustration with waiting for opportunities, but also shares enthusiasm when discussing career prospects.",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Seems driven by a desire to advance in their field."
+        },
+        {
+          "value": "Patient",
+          "description": "Tends to wait for the right opportunity rather than taking risks."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Frequently expresses appreciation for supportive online communities, but also mentions feeling overwhelmed by large groups.",
+      "options": [
+        {
+          "value": "Outgoing",
+          "description": "Engages enthusiastically with others in online discussions."
+        },
+        {
+          "value": "Introverted",
+          "description": "Prefers smaller, more intimate social interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Frequently mentions the importance of work-life balance and mental health.",
+      "options": [
+        {
+          "value": "Pragmatic",
+          "description": "Prioritizes stability and security over personal goals."
+        },
+        {
+          "value": "Idealistic",
+          "description": "Seems driven by a desire to make a positive impact in their field."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Frequently discusses technology, entrepreneurship, and creative pursuits.",
+      "options": [
+        {
+          "value": "Analytical",
+          "description": "Enjoys problem-solving and data analysis."
+        },
+        {
+          "value": "Creative",
+          "description": "Seems drawn to artistic or imaginative endeavors."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality",
+      "description": "Frequently describes themselves as introverted, yet also values deep connections with others.",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Prefers quieter, more low-key social interactions."
+        },
+        {
+          "value": "Extroverted",
+          "description": "Seems outgoing and sociable in most situations."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Goals",
+      "description": "Frequently expresses a desire to make a meaningful impact in their field, yet also struggles with self-doubt.",
+      "options": [
+        {
+          "value": "Optimistic",
+          "description": "Seems confident in their abilities and goals."
+        },
+        {
+          "value": "Pessimistic",
+          "description": "Tends to doubt their own capabilities and progress."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Frequently mentions the importance of authenticity and honesty in personal and professional relationships.",
+      "options": [
+        {
+          "value": "Authentic",
+          "description": "Prioritizes genuineness and transparency in interactions."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Tends to avoid conflict or difficult conversations."
+        }
+      ]
+    }
+  ]
+}

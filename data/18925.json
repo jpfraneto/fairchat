@@ -1,0 +1,125 @@
+{
+  "fid": "18925",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension represents the user's communication style, focusing on their tendency to be more direct or nuanced in their responses.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension highlights the user's interests, as demonstrated by their posts and comments.",
+      "options": [
+        {
+          "value": "",
+          "description": "Hobby-oriented"
+        },
+        {
+          "value": "",
+          "description": "Industry-focused"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension reflects the user's values, showcasing their commitment to egalitarianism and ambitious projects.",
+      "options": [
+        {
+          "value": "",
+          "description": "Progressive"
+        },
+        {
+          "value": "",
+          "description": "Conservative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension illustrates the user's social dynamics, indicating their tendency to engage with others in a more formal or informal manner.",
+      "options": [
+        {
+          "value": "",
+          "description": "Formal"
+        },
+        {
+          "value": "",
+          "description": "Informal"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension highlights the user's personality traits, focusing on their friendliness and approachability.",
+      "options": [
+        {
+          "value": "",
+          "description": "Friendly"
+        },
+        {
+          "value": "",
+          "description": "Ruthless"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension reflects the user's sense of humor, showcasing their ability to make others laugh.",
+      "options": [
+        {
+          "value": "",
+          "description": "Witty"
+        },
+        {
+          "value": "",
+          "description": "Dry"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension illustrates the user's emotional intelligence, indicating their ability to empathize with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Empathetic"
+        },
+        {
+          "value": "",
+          "description": "Emotionless"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "",
+      "description": "This dimension highlights the user's level of engagement, showcasing their willingness to participate in online discussions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Active"
+        },
+        {
+          "value": "",
+          "description": "Passive"
+        }
+      ]
+    }
+  ]
+}

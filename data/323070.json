@@ -1,0 +1,125 @@
+{
+  "fid": "323070",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as direct and straightforward in their casts, with minimal use of sarcasm or ambiguity.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Frequently mentions photography and shares images of their work, indicating a strong passion for the field.",
+      "options": [
+        {
+          "value": "",
+          "description": "Focused"
+        },
+        {
+          "value": "",
+          "description": "Exploratory"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Places emphasis on creativity and self-expression, as reflected in their photography style.",
+      "options": [
+        {
+          "value": "",
+          "description": "Conservative"
+        },
+        {
+          "value": "",
+          "description": "Innovative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Tends to engage with their audience in a friendly and approachable manner, using emojis and hashtags.",
+      "options": [
+        {
+          "value": "",
+          "description": "Exclusive"
+        },
+        {
+          "value": "",
+          "description": "Inclusive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Displays a sense of humor and playfulness, evident in their use of emojis and lighthearted language.",
+      "options": [
+        {
+          "value": "",
+          "description": "Sarcastic"
+        },
+        {
+          "value": "",
+          "description": "Playful"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Work Ethic",
+      "description": "Demonstrates a strong work ethic through their consistent posting schedule and high-quality content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Relaxed"
+        },
+        {
+          "value": "",
+          "description": "Driven"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Uses humor to connect with their audience and make their content more engaging.",
+      "options": [
+        {
+          "value": "",
+          "description": "Dry"
+        },
+        {
+          "value": "",
+          "description": "Witty"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Shows a range of emotions through their language and tone, indicating a high level of emotional intelligence.",
+      "options": [
+        {
+          "value": "",
+          "description": "Reserved"
+        },
+        {
+          "value": "",
+          "description": "Expressive"
+        }
+      ]
+    }
+  ]
+}

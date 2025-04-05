@@ -1,0 +1,125 @@
+{
+  "fid": "2788",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents the user's approach to sharing information, ideas, and opinions. It is characterized by their use of directness vs. nuance in their messages.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Nuanced"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "This dimension reflects the user's core values and principles that guide their thoughts, opinions, and actions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Conservative"
+        },
+        {
+          "value": "",
+          "description": "Progressive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "This dimension captures the user's personality characteristics, such as introversion vs. extroversion.",
+      "options": [
+        {
+          "value": "",
+          "description": "Introverted"
+        },
+        {
+          "value": "",
+          "description": "Extroverted"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "This dimension reveals the user's passions and areas of interest, such as politics, technology, or culture.",
+      "options": [
+        {
+          "value": "",
+          "description": "Narrow"
+        },
+        {
+          "value": "",
+          "description": "Broad"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension shows how the user interacts with others, such as assertiveness vs. deference.",
+      "options": [
+        {
+          "value": "",
+          "description": "Assertive"
+        },
+        {
+          "value": "",
+          "description": "Deferential"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Tolerance",
+      "description": "This dimension reflects the user's comfort level with taking risks and trying new things.",
+      "options": [
+        {
+          "value": "",
+          "description": "Cautious"
+        },
+        {
+          "value": "",
+          "description": "Adventurous"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Analytical Thinking",
+      "description": "This dimension demonstrates the user's approach to problem-solving and analysis.",
+      "options": [
+        {
+          "value": "",
+          "description": "Rigorous"
+        },
+        {
+          "value": "",
+          "description": "Intuitive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creative Expression",
+      "description": "This dimension reveals the user's creativity, imagination, and ability to express themselves.",
+      "options": [
+        {
+          "value": "",
+          "description": "Repressed"
+        },
+        {
+          "value": "",
+          "description": "Unbridled"
+        }
+      ]
+    }
+  ]
+}

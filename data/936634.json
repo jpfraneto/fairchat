@@ -1,0 +1,125 @@
+{
+  "fid": "936634",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears as a patient and calm individual, often waiting for financial stability to upgrade their phone.",
+      "options": [
+        {
+          "value": "Patient",
+          "description": "Takes time to make decisions"
+        },
+        {
+          "value": "Impulsive",
+          "description": "Acts on instinct"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Displays a fondness for anime, video games, and cats.",
+      "options": [
+        {
+          "value": "Hobbyist",
+          "description": "Enjoys leisure activities"
+        },
+        {
+          "value": "Professional",
+          "description": "Focused on career goals"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Prioritizes kindness, friendship, and a sense of community.",
+      "options": [
+        {
+          "value": "Altruistic",
+          "description": "Prioritizes others' needs"
+        },
+        {
+          "value": "Selfish",
+          "description": "Focused on personal gain"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Showcases a strong connection with their online community, engaging in friendly conversations.",
+      "options": [
+        {
+          "value": "Introverted",
+          "description": "Prefers solitude"
+        },
+        {
+          "value": "Extroverted",
+          "description": "Thrives on social interactions"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Quirks",
+      "description": "Often expresses affection through heart eyes and emoticon responses.",
+      "options": [
+        {
+          "value": "Sentimental",
+          "description": "Emotionally expressive"
+        },
+        {
+          "value": "Dry",
+          "description": "Lacks emotional expression"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Demonstrates a lighthearted sense of humor, often sharing funny comments.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Quick-witted and humorous"
+        },
+        {
+          "value": "Sarcastic",
+          "description": "Tends to be dismissive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Adaptability",
+      "description": "Showcases a willingness to wait for the right moment to act, rather than rushing into decisions.",
+      "options": [
+        {
+          "value": "Flexible",
+          "description": "Adapts easily to changing circumstances"
+        },
+        {
+          "value": "Rigid",
+          "description": "Inflexible and resistant to change"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Problem-Solving",
+      "description": "Consistently displays a patient approach when facing problems, often waiting for financial stability before upgrading their phone.",
+      "options": [
+        {
+          "value": "Resourceful",
+          "description": "Quickly finds solutions to problems"
+        },
+        {
+          "value": "Persevering",
+          "description": "Continues working towards a solution"
+        }
+      ]
+    }
+  ]
+}

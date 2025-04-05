@@ -1,0 +1,125 @@
+{
+  "fid": "210698",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension consistently appears in their content as someone who is direct and to-the-point, often using humor to make a point.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Takes charge and gets straight to the point."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Considers multiple perspectives before responding."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Artistic Interests",
+      "description": "This dimension is evident in their content as someone who appreciates art and design, often sharing their own creations.",
+      "options": [
+        {
+          "value": "Visual",
+          "description": "Focuses on visual aspects of art."
+        },
+        {
+          "value": "Conceptual",
+          "description": "Considers the underlying concepts and ideas behind art."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "This dimension is consistently represented in their content as someone who is witty and sarcastic.",
+      "options": [
+        {
+          "value": "Sarcastic",
+          "description": "Uses humor to deflect or make a point."
+        },
+        {
+          "value": "Witty",
+          "description": "Makes quick, clever remarks."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Dev Interest",
+      "description": "This dimension is apparent in their content as someone who is passionate about developing and building digital solutions.",
+      "options": [
+        {
+          "value": "Technical",
+          "description": "Focuses on technical aspects of development."
+        },
+        {
+          "value": "Strategic",
+          "description": "Considers the bigger picture and long-term implications."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Curatorial Interest",
+      "description": "This dimension is evident in their content as someone who appreciates curation and the process of selecting and presenting content.",
+      "options": [
+        {
+          "value": "Selective",
+          "description": "Chooses specific elements to highlight."
+        },
+        {
+          "value": "Inclusive",
+          "description": "Aims to showcase a wide range of perspectives."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension is consistently represented in their content as someone who values authenticity and honesty in their relationships.",
+      "options": [
+        {
+          "value": "Genuine",
+          "description": "Prioritizes being true to oneself."
+        },
+        {
+          "value": "Diplomatic",
+          "description": "Aims for smooth, conflict-free interactions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Worldview",
+      "description": "This dimension is apparent in their content as someone who has a strong appreciation for the intersection of technology and art.",
+      "options": [
+        {
+          "value": "Holistic",
+          "description": "Considers the broader implications of technological advancements."
+        },
+        {
+          "value": "Analytical",
+          "description": "Focuses on breaking down complex systems into smaller components."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Building",
+      "description": "This dimension is evident in their content as someone who values community and collaboration.",
+      "options": [
+        {
+          "value": "Inclusive",
+          "description": "Aims to create a welcoming environment for all participants."
+        },
+        {
+          "value": "Competitive",
+          "description": "Prioritizes individual achievement and progress."
+        }
+      ]
+    }
+  ]
+}

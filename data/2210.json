@@ -1,0 +1,125 @@
+{
+  "fid": "2210",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Family Life Priorities",
+      "description": "This dimension represents kenny's consistent emphasis on family life and his busy schedule, indicating a prioritization of personal relationships.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Always puts family first"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Balances work and family life"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension showcases kenny's conversational tone, often using humor and emojis to engage with others.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Clear and straightforward"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Considerate of audience feedback"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest in Mechanism Design",
+      "description": "This dimension highlights kenny's interest in mechanism design, evident from his posts about Poidh.xyz.",
+      "options": [
+        {
+          "value": "Passionate",
+          "description": "Always eager to learn and share"
+        },
+        {
+          "value": "Casual",
+          "description": "Occasional interest"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sense of Humor",
+      "description": "This dimension demonstrates kenny's lighthearted and humorous tone, evident from his use of emojis and playful language.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Quick-witted and clever"
+        },
+        {
+          "value": "Dry",
+          "description": "Sarcastic and ironic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value on Community",
+      "description": "This dimension shows kenny's emphasis on community, evident from his engagement with others and shared interests.",
+      "options": [
+        {
+          "value": "Inclusive",
+          "description": "Welcoming to all participants"
+        },
+        {
+          "value": "Exclusive",
+          "description": "Focused on personal relationships"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics Approach",
+      "description": "This dimension represents kenny's tendency to navigate social situations with nuance, taking into account the perspectives of others.",
+      "options": [
+        {
+          "value": "Aggressive",
+          "description": "Directly assertive"
+        },
+        {
+          "value": "Collaborative",
+          "description": "Considerate of group opinions"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Mechanism Design Expertise",
+      "description": "This dimension showcases kenny's expertise in mechanism design, evident from his posts and comments about Poidh.xyz.",
+      "options": [
+        {
+          "value": "Expert",
+          "description": "Highly knowledgeable and experienced"
+        },
+        {
+          "value": "Novice",
+          "description": "Limited experience"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Motivation for Sharing",
+      "description": "This dimension represents kenny's motivation to share his thoughts and experiences, often driven by a desire for community engagement.",
+      "options": [
+        {
+          "value": "Inspirational",
+          "description": "Eager to motivate others"
+        },
+        {
+          "value": "Informative",
+          "description": "Focused on educating the audience"
+        }
+      ]
+    }
+  ]
+}

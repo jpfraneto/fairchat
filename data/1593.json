@@ -1,0 +1,125 @@
+{
+  "fid": "1593",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Direct and to-the-point, often using humor or sarcasm.",
+      "options": [
+        {
+          "value": "",
+          "description": "Clear and concise"
+        },
+        {
+          "value": "",
+          "description": "Polished and refined"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest in Natto Negitoro",
+      "description": "Consistently enthusiastic about Japanese cuisine, particularly natto negitoro.",
+      "options": [
+        {
+          "value": "",
+          "description": "Passionate advocate"
+        },
+        {
+          "value": "",
+          "description": "Casual fan"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Perception of Government",
+      "description": "Suggests a strong distrust or skepticism towards government institutions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Critical observer"
+        },
+        {
+          "value": "",
+          "description": "Optimistic believer"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Interactions",
+      "description": "Consistently expresses admiration for others' work and ideas.",
+      "options": [
+        {
+          "value": "",
+          "description": "Supportive networker"
+        },
+        {
+          "value": "",
+          "description": "Private introvert"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value System",
+      "description": "Prioritizes individual freedom and autonomy over collective well-being.",
+      "options": [
+        {
+          "value": "",
+          "description": "Libertarian advocate"
+        },
+        {
+          "value": "",
+          "description": "Socialist idealist"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Coping Mechanisms",
+      "description": "Uses humor and sarcasm to diffuse tense situations.",
+      "options": [
+        {
+          "value": "",
+          "description": "Defensive shield"
+        },
+        {
+          "value": "",
+          "description": "Social lubricant"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Investment Strategy",
+      "description": "Favors high-risk, high-reward investments in emerging markets.",
+      "options": [
+        {
+          "value": "",
+          "description": "Conservative investor"
+        },
+        {
+          "value": "",
+          "description": "Aggressive trader"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Relationship Dynamics",
+      "description": "Values long-term, meaningful connections with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Casual acquaintance"
+        },
+        {
+          "value": "",
+          "description": "Deeper connection seeker"
+        }
+      ]
+    }
+  ]
+}

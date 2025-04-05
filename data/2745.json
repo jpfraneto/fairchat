@@ -1,0 +1,125 @@
+{
+  "fid": "2745",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This user consistently appears to be direct and straightforward in their communication, often using emojis to convey a sense of playfulness and enthusiasm.",
+      "options": [
+        {
+          "value": "",
+          "description": "Efficient"
+        },
+        {
+          "value": "",
+          "description": "Dramatic"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest in Technology",
+      "description": "This user demonstrates a strong interest in emerging technologies, such as smart displays and speedrunning.",
+      "options": [
+        {
+          "value": "",
+          "description": "Curious"
+        },
+        {
+          "value": "",
+          "description": "Cautious"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "This user appears to be comfortable expressing their emotions, often using emojis and humorous language to convey their feelings.",
+      "options": [
+        {
+          "value": "",
+          "description": "Vigilant"
+        },
+        {
+          "value": "",
+          "description": "Sensitive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Perception of Change",
+      "description": "This user views planned obsolescence as a negative aspect, and seems to trust communities that can find workarounds.",
+      "options": [
+        {
+          "value": "",
+          "description": "Resistant"
+        },
+        {
+          "value": "",
+          "description": "Adaptable"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Attitude towards Complexity",
+      "description": "This user appears to be comfortable with complexity, as demonstrated by their interest in rust and speedrunning.",
+      "options": [
+        {
+          "value": "",
+          "description": "Avoidant"
+        },
+        {
+          "value": "",
+          "description": "Thrill-seeking"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tolerance for Uncertainty",
+      "description": "This user seems to be open to new experiences and perspectives, as demonstrated by their interest in smart displays.",
+      "options": [
+        {
+          "value": "",
+          "description": "Preferable"
+        },
+        {
+          "value": "",
+          "description": "Uncomfortable"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This user appears to be comfortable with social interactions, as demonstrated by their engagement with other users.",
+      "options": [
+        {
+          "value": "",
+          "description": "Assertive"
+        },
+        {
+          "value": "",
+          "description": "Reverent"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor and Sarcasm",
+      "description": "This user uses humor and sarcasm to convey their personality and engage with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Infectious"
+        },
+        {
+          "value": "",
+          "description": "Irritating"
+        }
+      ]
+    }
+  ]
+}

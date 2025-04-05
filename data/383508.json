@@ -1,0 +1,125 @@
+{
+  "fid": "383508",
+  "characteristics": [
+    {
+      "emoji": "📸",
+      "name": "Art Appreciation",
+      "description": "Consistently appears in their content as a passion for art, with evidence of their love for various styles and mediums.",
+      "options": [
+        {
+          "value": "Vibrant",
+          "description": "Emphasizes their bold and expressive approach to art"
+        },
+        {
+          "value": "Refined",
+          "description": "Highlights their attention to detail and nuanced understanding of artistic techniques"
+        }
+      ]
+    },
+    {
+      "emoji": "🌾",
+      "name": "Sustainability",
+      "description": "Appears frequently in their content as a commitment to environmentally friendly practices and locally sourced produce.",
+      "options": [
+        {
+          "value": "Pioneering",
+          "description": "Emphasizes their innovative approach to sustainable farming"
+        },
+        {
+          "value": "Pragmatic",
+          "description": "Highlights their down-to-earth and practical approach to reducing waste"
+        }
+      ]
+    },
+    {
+      "emoji": "📊",
+      "name": "Data Analysis",
+      "description": "Shows up consistently in their content as a strong interest in data-driven insights and analysis.",
+      "options": [
+        {
+          "value": "Insightful",
+          "description": "Emphasizes their ability to uncover meaningful patterns and trends"
+        },
+        {
+          "value": "Precise",
+          "description": "Highlights their attention to detail and commitment to accuracy"
+        }
+      ]
+    },
+    {
+      "emoji": "📚",
+      "name": "Personal Development",
+      "description": "Appears regularly in their content as a focus on self-improvement, learning, and growth.",
+      "options": [
+        {
+          "value": "Ambitious",
+          "description": "Emphasizes their drive to continually challenge themselves"
+        },
+        {
+          "value": "Reflective",
+          "description": "Highlights their thoughtful approach to personal growth and introspection"
+        }
+      ]
+    },
+    {
+      "emoji": "🤝",
+      "name": "Community Building",
+      "description": "Shows up consistently in their content as a commitment to fostering connections with others and building strong relationships.",
+      "options": [
+        {
+          "value": "Collaborative",
+          "description": "Emphasizes their ability to work effectively with others"
+        },
+        {
+          "value": "Empathetic",
+          "description": "Highlights their ability to understand and support the needs of others"
+        }
+      ]
+    },
+    {
+      "emoji": "🏃‍♂️",
+      "name": "Physical Activity",
+      "description": "Appears frequently in their content as a regular participant in ultrarunning and other physically demanding activities.",
+      "options": [
+        {
+          "value": "Adventurous",
+          "description": "Emphasizes their willingness to push themselves outside of comfort zones"
+        },
+        {
+          "value": "Disciplined",
+          "description": "Highlights their commitment to training and preparation"
+        }
+      ]
+    },
+    {
+      "emoji": "👊",
+      "name": "Confidence",
+      "description": "Shows up consistently in their content as a strong sense of self-assurance and confidence.",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Emphasizes their willingness to take risks and stand up for themselves"
+        },
+        {
+          "value": "Resilient",
+          "description": "Highlights their ability to bounce back from setbacks and challenges"
+        }
+      ]
+    },
+    {
+      "emoji": "💬",
+      "name": "Communication Style",
+      "description": "Appears regularly in their content as a tendency to be direct, clear, and concise in their communication.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Emphasizes their straightforward approach"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Highlights their ability to consider multiple perspectives"
+        }
+      ]
+    }
+  ]
+}

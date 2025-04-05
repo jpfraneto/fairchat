@@ -1,0 +1,125 @@
+{
+  "fid": "11948",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appearing in their content, particularly in direct and enthusiastic responses.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Expresses thoughts with clarity and confidence."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Communicates with subtlety and consideration for others."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone",
+      "description": "Characterized by a mix of positivity, humor, and friendliness.",
+      "options": [
+        {
+          "value": "Positive",
+          "description": "Maintains a cheerful and uplifting tone."
+        },
+        {
+          "value": "Humorous",
+          "description": "Incorporates playful jokes and lighthearted remarks."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Enthusiasm",
+      "description": "Demonstrates genuine excitement when discussing topics they're passionate about.",
+      "options": [
+        {
+          "value": "High",
+          "description": "Expresses unbridled enthusiasm and energy."
+        },
+        {
+          "value": "Low",
+          "description": "Shows moderate interest, but avoids extreme passion."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sarcasm",
+      "description": "Occasionally uses sarcastic comments to add humor or emphasis.",
+      "options": [
+        {
+          "value": "Present",
+          "description": "Incorporates sarcastic remarks to convey a point."
+        },
+        {
+          "value": "Absent",
+          "description": "Avoids using sarcasm in their communication."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Consistently expresses emotions through verbal and non-verbal cues.",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Shares personal feelings and emotions openly."
+        },
+        {
+          "value": "Reserved",
+          "description": "Maintains a more reserved demeanor, sharing emotions sparingly."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Sense of Humor",
+      "description": "Appears to enjoy making jokes and sharing humorous anecdotes.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Incorporates clever wordplay and quick wit."
+        },
+        {
+          "value": "Dry",
+          "description": "Uses dry, deadpan humor to convey a point."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Frequently engages in discussions with @warpslot and @base.",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Participates actively in conversations and collaborations."
+        },
+        {
+          "value": "Passive",
+          "description": "Only occasionally engages in discussions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest Range",
+      "description": "Appears to have a broad range of interests, including gdupi primetime.",
+      "options": [
+        {
+          "value": "Broad",
+          "description": "Enthusiastically explores diverse topics."
+        },
+        {
+          "value": "Narrow",
+          "description": "Focuses on specific areas of interest."
+        }
+      ]
+    }
+  ]
+}

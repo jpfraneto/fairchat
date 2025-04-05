@@ -1,0 +1,125 @@
+{
+  "fid": "1606",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Response Speed",
+      "description": "This dimension represents the user's typical response time to new information or comments.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor and Tone",
+      "description": "This dimension captures the user's preferred tone in their communication, including any use of humor or sarcasm.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "This dimension represents the user's typical emotional expression in their content, such as enthusiasm or calmness.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Engagement Level",
+      "description": "This dimension represents the user's typical level of engagement with others' content, such as asking questions or sharing personal thoughts.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Depth of Thought",
+      "description": "This dimension represents the user's typical level of depth in their thought process, such as providing detailed explanations or keeping topics brief.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Use of Emotional Language",
+      "description": "This dimension represents the user's typical use of emotional language in their communication, such as metaphors or similes.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Directness and Honesty",
+      "description": "This dimension represents the user's typical level of directness and honesty in their communication, such as being straightforward or tactful.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Storytelling Ability",
+      "description": "This dimension represents the user's typical use of storytelling in their communication, such as sharing personal anecdotes or using narratives to illustrate points.",
+      "options": [
+        {
+          "value": "",
+          "description": ""
+        },
+        {
+          "value": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

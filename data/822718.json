@@ -1,0 +1,125 @@
+{
+  "fid": "822718",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Response Speed",
+      "description": "The user consistently responds within a short time frame, indicating their ability to prioritize and manage multiple interactions.",
+      "options": [
+        {
+          "value": "Fast",
+          "description": "Immediate responses with minimal delay"
+        },
+        {
+          "value": "Slow",
+          "description": "Responses may take some time to arrive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone Consistency",
+      "description": "The user maintains a consistent tone across their interactions, conveying a clear and respectful attitude.",
+      "options": [
+        {
+          "value": "Consistent",
+          "description": "Tone remains stable throughout conversations"
+        },
+        {
+          "value": "Inconsistent",
+          "description": "Tone shifts or veers off course"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "The user openly expresses their emotions, making them more relatable and endearing to others.",
+      "options": [
+        {
+          "value": "Open",
+          "description": "Emotions are freely shared"
+        },
+        {
+          "value": "Reserved",
+          "description": "Emotions are kept to oneself"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Directness",
+      "description": "The user prefers direct and straightforward communication, avoiding unnecessary embellishments.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Clear and concise responses"
+        },
+        {
+          "value": "Indirect",
+          "description": "Circular or evasive responses"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Engagement",
+      "description": "The user actively engages with others, showing genuine interest in conversations.",
+      "options": [
+        {
+          "value": "Active",
+          "description": "Proactively contributes to discussions"
+        },
+        {
+          "value": "Passive",
+          "description": "Primarily listens or responds briefly"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "The user incorporates humor into their conversations, making interactions more enjoyable.",
+      "options": [
+        {
+          "value": "Witty",
+          "description": "Quick-witted and playful responses"
+        },
+        {
+          "value": "Dry",
+          "description": "Deadpan or sarcastic tone"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Empathy",
+      "description": "The user demonstrates understanding and compassion for others' perspectives.",
+      "options": [
+        {
+          "value": "Compassionate",
+          "description": "Shows genuine concern and empathy"
+        },
+        {
+          "value": "Detached",
+          "description": "Lacks emotional connection or understanding"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Creativity",
+      "description": "The user thinks outside the box, generating innovative ideas and responses.",
+      "options": [
+        {
+          "value": "Innovative",
+          "description": "Produces original and imaginative content"
+        },
+        {
+          "value": "Conventional",
+          "description": "Repeats or reuses familiar ideas"
+        }
+      ]
+    }
+  ]
+}

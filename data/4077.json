@@ -1,0 +1,140 @@
+{
+  "fid": "4077",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Consistently appears in their content as direct and to-the-point, with a focus on sharing quick tips and recipes.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Firmly states opinions without nuance"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Shares thoughts in a more measured and considerate tone"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Values kindness and warmth, often expressing affection towards others through emojis and enthusiastic language.",
+      "options": [
+        {
+          "value": "Warm",
+          "description": "Displays empathy and understanding in their communication"
+        },
+        {
+          "value": "Cold",
+          "description": "Lacks emotional expression or concern for others"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Passionately discusses cooking, baking, and sharing recipes, often highlighting nutritional benefits.",
+      "options": [
+        {
+          "value": "Foodie",
+          "description": "Seeks out diverse culinary experiences"
+        },
+        {
+          "value": "Health-Conscious",
+          "description": "Prioritizes nutrition and wellness"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Engages with their audience through interactive language, such as @mentions and emojis.",
+      "options": [
+        {
+          "value": "Assertive",
+          "description": "Confidently expresses opinions and engages with others"
+        },
+        {
+          "value": "Reserve",
+          "description": "Holds back from fully participating in conversations"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": " Places importance on authenticity, honesty, and positivity.",
+      "options": [
+        {
+          "value": "Authentic",
+          "description": "Prioritizes genuine expression over curated appearances"
+        },
+        {
+          "value": "Dramatic",
+          "description": "Emphasizes flair and theatrics in communication"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Often shares humor and lightheartedness, making their content enjoyable to read.",
+      "options": [
+        {
+          "value": "Playful",
+          "description": "Uses humor and irony to convey points"
+        },
+        {
+          "value": "Serious",
+          "description": "Maintains a straightforward tone"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Is enthusiastic about sharing knowledge, often using phrases like 'oh yes oh yes'!",
+      "options": [
+        {
+          "value": "Excitable",
+          "description": "Expresses high energy and excitement"
+        },
+        {
+          "value": "Unenthusiastic",
+          "description": "Lacks passion or interest in sharing"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interests",
+      "description": "Mentions cooking as a primary source of comfort.",
+      "options": [
+        {
+          "value": "Comfortable",
+          "description": "Finds solace in familiar routines"
+        },
+        {
+          "value": "Restless",
+          "description": "Seeks out new experiences"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values",
+      "description": "Emphasizes self-improvement, encouraging others to 'try the Mac and cheese flavor'!",
+      "options": [
+        {
+          "value": "Growth-Oriented",
+          "description": "Prioritizes personal growth and development"
+        },
+        {
+          "value": "Conservative",
+          "description": "Resists change or new ideas"
+        }
+      ]
+    }
+  ]
+}

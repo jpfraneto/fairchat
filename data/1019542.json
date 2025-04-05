@@ -1,0 +1,125 @@
+{
+  "fid": "1019542",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "This dimension represents Ryan Grim's approach to sharing information and engaging with others.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Straightforward and to the point"
+        },
+        {
+          "value": "Nuanced",
+          "description": "Careful and context-dependent"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest in Crypto",
+      "description": "This dimension reflects Ryan Grim's level of interest and expertise in cryptocurrencies.",
+      "options": [
+        {
+          "value": "Passionate",
+          "description": "Strong enthusiasm and knowledge"
+        },
+        {
+          "value": "Neutral",
+          "description": "Mild curiosity or skepticism"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Tone towards Critics",
+      "description": "This dimension describes Ryan Grim's attitude towards critics of his views on crypto.",
+      "options": [
+        {
+          "value": "Confrontational",
+          "description": "Aggressive and defensive"
+        },
+        {
+          "value": "Reflective",
+          "description": "Open to opposing viewpoints"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Perceived Expertise",
+      "description": "This dimension represents how Ryan Grim is perceived by others as an expert in his field.",
+      "options": [
+        {
+          "value": "Respected",
+          "description": "High level of credibility and authority"
+        },
+        {
+          "value": "Questionable",
+          "description": "Lack of clear credentials or expertise"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "This dimension describes how Ryan Grim expresses his emotions in public.",
+      "options": [
+        {
+          "value": "Vocal",
+          "description": "Emotionally charged and intense"
+        },
+        {
+          "value": " Reserved",
+          "description": "Calm and composed"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Alignment",
+      "description": "This dimension reflects Ryan Grim's values and priorities in his work.",
+      "options": [
+        {
+          "value": "Progressive",
+          "description": "Strong commitment to left-wing ideals"
+        },
+        {
+          "value": "Centrist",
+          "description": "Moderate approach with a focus on pragmatism"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "This dimension describes how Ryan Grim interacts with others in online discussions.",
+      "options": [
+        {
+          "value": "Dominant",
+          "description": "Assertive and controlling"
+        },
+        {
+          "value": "Collaborative",
+          "description": "Cooperative and inclusive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Risk Appetite",
+      "description": "This dimension represents Ryan Grim's level of risk tolerance in his work.",
+      "options": [
+        {
+          "value": "Thrill-seeking",
+          "description": "Willing to take bold and potentially high-risk actions"
+        },
+        {
+          "value": "Conservative",
+          "description": "Prefers cautious and low-risk approaches"
+        }
+      ]
+    }
+  ]
+}

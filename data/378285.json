@@ -1,0 +1,125 @@
+{
+  "fid": "378285",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Expression of Gratitude",
+      "description": "Consistently expressing gratitude through phrases like 'Thank you' and emojis, showcasing appreciation for others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Direct"
+        },
+        {
+          "value": "",
+          "description": "Appreciative"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Emotional Expression",
+      "description": "Using emotional language and emojis to convey enthusiasm, excitement, or support.",
+      "options": [
+        {
+          "value": "",
+          "description": "Open"
+        },
+        {
+          "value": "",
+          "description": "Reserved"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Utilizing short sentences and emojis to convey thoughts and ideas, often in a concise manner.",
+      "options": [
+        {
+          "value": "",
+          "description": "Concise"
+        },
+        {
+          "value": "",
+          "description": "Verbose"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "Employing humor through words, emojis, or reactions to lighten the mood and connect with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Witty"
+        },
+        {
+          "value": "",
+          "description": "Dry"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Empathy",
+      "description": "Demonstrating understanding and support for others through words, emojis, or reactions.",
+      "options": [
+        {
+          "value": "",
+          "description": "Compassionate"
+        },
+        {
+          "value": "",
+          "description": "Neutral"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Social Dynamics",
+      "description": "Showing a friendly and approachable demeanor through interactions with others.",
+      "options": [
+        {
+          "value": "",
+          "description": "Outgoing"
+        },
+        {
+          "value": "",
+          "description": "Introverted"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Interest in Feedback",
+      "description": "Seeking and appreciating feedback from others to improve their content.",
+      "options": [
+        {
+          "value": "",
+          "description": "Curious"
+        },
+        {
+          "value": "",
+          "description": "Dismissive"
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Values Shared with Viewers",
+      "description": "Highlighting values such as kindness, empathy, and positivity to create a sense of community.",
+      "options": [
+        {
+          "value": "",
+          "description": "Authentic"
+        },
+        {
+          "value": "",
+          "description": "Artificial"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fid": "887586",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Attention Span",
+      "description": "Your community's potential is limited by your attention, not your ideas. You focus on the output before optimizing your input streams.",
+      "options": [
+        {
+          "value": "Focused",
+          "description": "You concentrate on a single task for an extended period."
+        },
+        {
+          "value": "Distracted",
+          "description": "You easily shift between tasks and lose momentum."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "Your community is a garden - are you planting seeds or just picking flowers? You focus on creating value for others.",
+      "options": [
+        {
+          "value": "Nurturing",
+          "description": "You care deeply about the well-being of your community members."
+        },
+        {
+          "value": "Harvesting",
+          "description": "You prioritize personal gain over collective growth."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Digital Footprint",
+      "description": "Your digital footprint is too valuable to leave unattended. You take steps to protect your online identity.",
+      "options": [
+        {
+          "value": "Secure",
+          "description": "You invest in robust security measures to safeguard your data."
+        },
+        {
+          "value": "Vulnerable",
+          "description": "You neglect to prioritize your online safety."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Community Value",
+      "description": "Your community builders create more value than they capture. They focus on forming connections and unlocking opportunities.",
+      "options": [
+        {
+          "value": "Generative",
+          "description": "You produce value that benefits others, often without direct recognition."
+        },
+        {
+          "value": "Consumptive",
+          "description": "You primarily consume resources and attention from your community."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Attention Abundance",
+      "description": "Attention is abundant, but sustained attention is scarce. You prioritize engagement over mere visibility.",
+      "options": [
+        {
+          "value": "Focused",
+          "description": "You concentrate on deepening connections with your community members."
+        },
+        {
+          "value": "Scattered",
+          "description": "You spread yourself too thin and lose focus on individual relationships."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Value Measurement",
+      "description": "The real metrics are in the connections formed, opportunities unlocked, and lives changed. You track meaningful outcomes.",
+      "options": [
+        {
+          "value": "Quantitative",
+          "description": "You rely on numbers and metrics to evaluate your impact."
+        },
+        {
+          "value": "Qualitative",
+          "description": "You prioritize the emotional resonance of your community's experiences."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Impact Measurement",
+      "description": "Community builders create more value than they capture. You assess the depth of their influence.",
+      "options": [
+        {
+          "value": "Significant",
+          "description": "You recognize and celebrate the substantial impact of your community members."
+        },
+        {
+          "value": "Negligible",
+          "description": "You underestimate the importance of individual contributions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Personality Traits",
+      "description": "Your personality is a blend of traits that consistently appear in your content. You cultivate a unique identity.",
+      "options": [
+        {
+          "value": "Confident",
+          "description": "You exude self-assurance and faith in your abilities."
+        },
+        {
+          "value": "Introverted",
+          "description": "You tend to be more reserved and introspective."
+        }
+      ]
+    }
+  ]
+}

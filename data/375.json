@@ -1,0 +1,125 @@
+{
+  "fid": "375",
+  "characteristics": [
+    {
+      "emoji": "",
+      "name": "Gratuity",
+      "description": "The user consistently promotes the idea that kindness is the real currency, and they do not engage in scams or grifting. This dimension represents their generosity and willingness to give without expectation of reward.",
+      "options": [
+        {
+          "value": "Generous",
+          "description": "Behavior: Always offers to help others."
+        },
+        {
+          "value": "Frugal",
+          "description": "Behavior: Never gives to strangers."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Communication Style",
+      "description": "The user tends to be direct and straightforward in their communication, often using humor and wit to convey their message. This dimension represents their approach to interacting with others.",
+      "options": [
+        {
+          "value": "Direct",
+          "description": "Behavior: Always tells the truth, even if it's uncomfortable."
+        },
+        {
+          "value": "Nuanced",
+          "description": "Behavior: Often uses subtlety and ambiguity to convey meaning."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Humor",
+      "description": "The user frequently incorporates humor into their content, using jokes and witty remarks to make a point or entertain. This dimension represents their ability to find the lighter side of life.",
+      "options": [
+        {
+          "value": "Funny",
+          "description": "Behavior: Always tries to make others laugh."
+        },
+        {
+          "value": "Serious",
+          "description": "Behavior: Never uses humor in professional settings."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Empathy",
+      "description": "The user shows a strong ability to understand and relate to the emotions of others, often using this empathy to connect with their audience. This dimension represents their capacity for emotional intelligence.",
+      "options": [
+        {
+          "value": "Compassionate",
+          "description": "Behavior: Always puts themselves in others' shoes."
+        },
+        {
+          "value": "Empathetic",
+          "description": "Behavior: Sometimes struggles to understand others' emotions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Artistic Appreciation",
+      "description": "The user shows a keen appreciation for art, often sharing and celebrating the work of others. This dimension represents their creative side and aesthetic sensibilities.",
+      "options": [
+        {
+          "value": "Discerning",
+          "description": "Behavior: Always seeks out new and innovative art."
+        },
+        {
+          "value": "Nostalgic",
+          "description": "Behavior: Prefers classic and traditional art forms."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Philanthropy",
+      "description": "The user occasionally donates or shares resources with others, demonstrating a commitment to giving back to their community. This dimension represents their generosity and willingness to help those in need.",
+      "options": [
+        {
+          "value": "Generous",
+          "description": "Behavior: Always looks for ways to improve the lives of others."
+        },
+        {
+          "value": "Selfless",
+          "description": "Behavior: Often prioritizes their own needs over others'."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Authenticity",
+      "description": "The user tends to be genuine and true to themselves, often embracing their individuality and quirks. This dimension represents their commitment to being authentic.",
+      "options": [
+        {
+          "value": "Authored",
+          "description": "Behavior: Always speaks from the heart."
+        },
+        {
+          "value": "Imitation",
+          "description": "Behavior: Often mimics others' styles and opinions."
+        }
+      ]
+    },
+    {
+      "emoji": "",
+      "name": "Inclusivity",
+      "description": "The user tends to be welcoming and inclusive, often using their platform to promote unity and understanding. This dimension represents their commitment to diversity and acceptance.",
+      "options": [
+        {
+          "value": "Inclusive",
+          "description": "Behavior: Always seeks out diverse perspectives."
+        },
+        {
+          "value": "Exclusive",
+          "description": "Behavior: Often prioritizes their own group over others."
+        }
+      ]
+    }
+  ]
+}
