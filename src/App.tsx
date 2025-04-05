@@ -48,6 +48,7 @@ const App: React.FC<AppProps> = ({ isLoading, setIsLoading }) => {
   const [currentUploadedCid, setCurrentUploadedCid] = useState<string | null>(
     null
   );
+  const [pendingBubble, setPendingBubble] = useState<Bubble | null>(null);
 
   const { frameContext } = useFarcaster();
   console.log("IS LOADING", isLoading);
@@ -63,6 +64,16 @@ const App: React.FC<AppProps> = ({ isLoading, setIsLoading }) => {
     });
   console.log("IS CONFIRMING", isConfirming);
   console.log("IS CONFIRMED", isConfirmed);
+
+  // Add the pending bubble to localBubbles when transaction is confirmed
+  useEffect(() => {
+    if (isConfirmed && pendingBubble) {
+      setLocalBubbles((prev) => [...prev, pendingBubble]);
+      setCurrentUploadedCid(pendingBubble.cid);
+      setPendingBubble(null);
+      resetRecordingState();
+    }
+  }, [isConfirmed, pendingBubble]);
 
   const { data: bubbles } = useReadContract({
     address: "0x07CcE141c48875A40Fb653211FFC0f569add5eca",
@@ -101,6 +112,17 @@ const App: React.FC<AppProps> = ({ isLoading, setIsLoading }) => {
 
         console.log("IPFS Link:", ipfsLink);
 
+        // Create a pending bubble
+        const newBubble: Bubble = {
+          id: Date.now(), // Temporary ID
+          fid: frameContext?.user.fid || 0,
+          cid: upload.cid,
+          color: `hsl(${Math.floor(Math.random() * 360)}, 70%, 60%)`,
+        };
+
+        // Store the pending bubble but don't add it to localBubbles yet
+        setPendingBubble(newBubble);
+
         await writeContract({
           address:
             "0x07CcE141c48875A40Fb653211FFC0f569add5eca" as `0x${string}`,
@@ -118,19 +140,8 @@ const App: React.FC<AppProps> = ({ isLoading, setIsLoading }) => {
 
         console.log("NOW THE HASH IS", hash);
 
-        // Create a new local bubble for immediate feedback
-        const newBubble: Bubble = {
-          id: Date.now(), // Temporary ID
-          fid: frameContext?.user.fid || 0,
-          cid: upload.cid,
-          color: `hsl(${Math.floor(Math.random() * 360)}, 70%, 60%)`,
-        };
-
-        setLocalBubbles((prev) => [...prev, newBubble]);
-        setCurrentUploadedCid(upload.cid);
-
-        // Reset state to allow new recording
-        resetRecordingState();
+        // The bubble will be added to localBubbles when the transaction is confirmed
+        // via the useEffect hook that watches isConfirmed
       } else {
         console.log("Upload failed");
       }
@@ -138,6 +149,7 @@ const App: React.FC<AppProps> = ({ isLoading, setIsLoading }) => {
       console.error(
         `Error: ${error instanceof Error ? error.message : String(error)}`
       );
+      setPendingBubble(null);
     } finally {
       setIsUploadingRecording(false);
     }
@@ -551,7 +563,29 @@ const App: React.FC<AppProps> = ({ isLoading, setIsLoading }) => {
                 animate={{ opacity: [0.5, 1, 0.5] }}
                 transition={{ repeat: Infinity, duration: 1.5 }}
               >
-                Talking To The Void...
+                Uploading your voice to IPFS...
+              </motion.div>
+            </div>
+          )}
+
+          {isPending && (
+            <div className="text-yellow-500 text-center font-medium">
+              <motion.div
+                animate={{ opacity: [0.5, 1, 0.5] }}
+                transition={{ repeat: Infinity, duration: 1.5 }}
+              >
+                Transaction Pending...
+              </motion.div>
+            </div>
+          )}
+
+          {isConfirming && (
+            <div className="text-blue-500 text-center font-medium">
+              <motion.div
+                animate={{ opacity: [0.5, 1, 0.5] }}
+                transition={{ repeat: Infinity, duration: 1.5 }}
+              >
+                Confirming Transaction...
               </motion.div>
             </div>
           )}
