@@ -106,9 +106,17 @@ const App: React.FC<AppProps> = ({ isLoading, setIsLoading }) => {
             "0x07CcE141c48875A40Fb653211FFC0f569add5eca" as `0x${string}`,
           abi: FAIRCHAT_ABI,
           functionName: "saveRecordingForever",
-          args: [upload.cid, frameContext?.user.fid],
+          args: [
+            upload.cid,
+            frameContext?.user.fid,
+            recordingDuration,
+            (frameContext?.user?.fid || "" + Date.now()).toString(),
+            false,
+          ],
           chainId: base.id,
         });
+
+        console.log("NOW THE HASH IS", hash);
 
         // Create a new local bubble for immediate feedback
         const newBubble: Bubble = {
